@@ -2,8 +2,9 @@ library(rstatix)  # For pipe-friendly versions of hypothesis tests
 library(tidyverse)
 
 # Import data.
-obj_meas <- read_csv("interactive_cartogram_objective_measures.csv",
-                     col_types = cols()) %>%
+obj_meas <-
+  read_csv("interactive_cartogram_objective_measures.csv",
+           col_types = cols()) %>%
   mutate(interactive_feature = factor(interactive_feature,
                                       levels = c("None",
                                                  "CSA",
@@ -102,7 +103,7 @@ map_dfr(task_types, calc_response_time_stat_main_effect) %>%
   print()
 
 # Statistics of error rates: post-hoc tests.
-cat("\nError rates - significant post-hoc Mann-Whitney U tests:\n")
+cat("\nResponse times - significant post-hoc Mann-Whitney U tests:\n")
 calc_response_time_stat_post_hoc <- function(task_type_input) {
   correct_response %>%
     filter(task_type == task_type_input) %>%
