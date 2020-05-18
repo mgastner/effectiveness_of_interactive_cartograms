@@ -70,6 +70,10 @@ calc_error_rate_stat_post_hoc <- function(task_type_input) {
 }
 map_dfr(task_types, calc_error_rate_stat_post_hoc) %>%
   print()
+rm(formula_for_error_rate_stat,
+   mean_error_rate,
+   calc_error_rate_stat_main_effect,
+   calc_error_rate_stat_post_hoc)
 
 # Summarize response times in tabular form.
 correct_response <-
@@ -114,3 +118,6 @@ calc_response_time_stat_post_hoc <- function(task_type_input) {
 }
 map_dfr(task_types, calc_response_time_stat_post_hoc) %>%
   print()
+rm(task_types,
+   calc_response_time_stat_main_effect,
+   calc_response_time_stat_post_hoc)
