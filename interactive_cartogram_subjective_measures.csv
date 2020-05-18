@@ -1,4 +1,4 @@
-participant_id,feature,wordpair,rating
+participant_id,interactive_feature,phrase_pair,rating
 1,IT,Difficult to use - Easy to use,5
 1,IT,Does not form immediate impression - Forms immediate impression,4
 1,IT,Conventional - Innovative,3
