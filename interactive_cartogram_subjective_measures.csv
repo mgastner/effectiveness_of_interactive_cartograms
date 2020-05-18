@@ -1,0 +1,1156 @@
+participant_id,feature,wordpair,rating
+1,IT,Difficult to use - Easy to use,5
+1,IT,Does not form immediate impression - Forms immediate impression,4
+1,IT,Conventional - Innovative,3
+1,IT,Redundant - Informative,5
+1,IT,Hindering - Helpful,5
+1,IT,Boring - Entertaining,4
+1,IT,Ugly - Elegant,4
+1,LB,Difficult to use - Easy to use,5
+1,LB,Does not form immediate impression - Forms immediate impression,5
+1,LB,Conventional - Innovative,4
+1,LB,Redundant - Informative,5
+1,LB,Hindering - Helpful,5
+1,LB,Boring - Entertaining,5
+1,LB,Ugly - Elegant,5
+1,CSA,Difficult to use - Easy to use,5
+1,CSA,Does not form immediate impression - Forms immediate impression,5
+1,CSA,Conventional - Innovative,4
+1,CSA,Redundant - Informative,5
+1,CSA,Hindering - Helpful,5
+1,CSA,Boring - Entertaining,5
+1,CSA,Ugly - Elegant,5
+2,IT,Difficult to use - Easy to use,4
+2,IT,Does not form immediate impression - Forms immediate impression,5
+2,IT,Conventional - Innovative,5
+2,IT,Redundant - Informative,4
+2,IT,Hindering - Helpful,4
+2,IT,Boring - Entertaining,5
+2,IT,Ugly - Elegant,4
+2,LB,Difficult to use - Easy to use,4
+2,LB,Does not form immediate impression - Forms immediate impression,5
+2,LB,Conventional - Innovative,5
+2,LB,Redundant - Informative,5
+2,LB,Hindering - Helpful,5
+2,LB,Boring - Entertaining,5
+2,LB,Ugly - Elegant,4
+2,CSA,Difficult to use - Easy to use,4
+2,CSA,Does not form immediate impression - Forms immediate impression,4
+2,CSA,Conventional - Innovative,2
+2,CSA,Redundant - Informative,3
+2,CSA,Hindering - Helpful,4
+2,CSA,Boring - Entertaining,3
+2,CSA,Ugly - Elegant,3
+3,IT,Difficult to use - Easy to use,4
+3,IT,Does not form immediate impression - Forms immediate impression,5
+3,IT,Conventional - Innovative,5
+3,IT,Redundant - Informative,4
+3,IT,Hindering - Helpful,4
+3,IT,Boring - Entertaining,4
+3,IT,Ugly - Elegant,4
+3,LB,Difficult to use - Easy to use,4
+3,LB,Does not form immediate impression - Forms immediate impression,4
+3,LB,Conventional - Innovative,2
+3,LB,Redundant - Informative,3
+3,LB,Hindering - Helpful,3
+3,LB,Boring - Entertaining,3
+3,LB,Ugly - Elegant,4
+3,CSA,Difficult to use - Easy to use,5
+3,CSA,Does not form immediate impression - Forms immediate impression,4
+3,CSA,Conventional - Innovative,4
+3,CSA,Redundant - Informative,4
+3,CSA,Hindering - Helpful,4
+3,CSA,Boring - Entertaining,5
+3,CSA,Ugly - Elegant,4
+4,IT,Difficult to use - Easy to use,5
+4,IT,Does not form immediate impression - Forms immediate impression,5
+4,IT,Conventional - Innovative,1
+4,IT,Redundant - Informative,5
+4,IT,Hindering - Helpful,5
+4,IT,Boring - Entertaining,4
+4,IT,Ugly - Elegant,3
+4,LB,Difficult to use - Easy to use,4
+4,LB,Does not form immediate impression - Forms immediate impression,5
+4,LB,Conventional - Innovative,4
+4,LB,Redundant - Informative,2
+4,LB,Hindering - Helpful,4
+4,LB,Boring - Entertaining,1
+4,LB,Ugly - Elegant,4
+4,CSA,Difficult to use - Easy to use,5
+4,CSA,Does not form immediate impression - Forms immediate impression,5
+4,CSA,Conventional - Innovative,4
+4,CSA,Redundant - Informative,1
+4,CSA,Hindering - Helpful,4
+4,CSA,Boring - Entertaining,4
+4,CSA,Ugly - Elegant,3
+5,IT,Difficult to use - Easy to use,4
+5,IT,Does not form immediate impression - Forms immediate impression,1
+5,IT,Conventional - Innovative,4
+5,IT,Redundant - Informative,4
+5,IT,Hindering - Helpful,5
+5,IT,Boring - Entertaining,4
+5,IT,Ugly - Elegant,5
+5,LB,Difficult to use - Easy to use,4
+5,LB,Does not form immediate impression - Forms immediate impression,5
+5,LB,Conventional - Innovative,4
+5,LB,Redundant - Informative,4
+5,LB,Hindering - Helpful,4
+5,LB,Boring - Entertaining,4
+5,LB,Ugly - Elegant,5
+5,CSA,Difficult to use - Easy to use,5
+5,CSA,Does not form immediate impression - Forms immediate impression,5
+5,CSA,Conventional - Innovative,5
+5,CSA,Redundant - Informative,5
+5,CSA,Hindering - Helpful,5
+5,CSA,Boring - Entertaining,5
+5,CSA,Ugly - Elegant,5
+6,IT,Difficult to use - Easy to use,5
+6,IT,Does not form immediate impression - Forms immediate impression,4
+6,IT,Conventional - Innovative,4
+6,IT,Redundant - Informative,5
+6,IT,Hindering - Helpful,5
+6,IT,Boring - Entertaining,5
+6,IT,Ugly - Elegant,5
+6,LB,Difficult to use - Easy to use,5
+6,LB,Does not form immediate impression - Forms immediate impression,5
+6,LB,Conventional - Innovative,5
+6,LB,Redundant - Informative,5
+6,LB,Hindering - Helpful,5
+6,LB,Boring - Entertaining,5
+6,LB,Ugly - Elegant,5
+6,CSA,Difficult to use - Easy to use,4
+6,CSA,Does not form immediate impression - Forms immediate impression,3
+6,CSA,Conventional - Innovative,3
+6,CSA,Redundant - Informative,4
+6,CSA,Hindering - Helpful,5
+6,CSA,Boring - Entertaining,5
+6,CSA,Ugly - Elegant,4
+7,IT,Difficult to use - Easy to use,5
+7,IT,Does not form immediate impression - Forms immediate impression,3
+7,IT,Conventional - Innovative,1
+7,IT,Redundant - Informative,5
+7,IT,Hindering - Helpful,5
+7,IT,Boring - Entertaining,2
+7,IT,Ugly - Elegant,3
+7,LB,Difficult to use - Easy to use,5
+7,LB,Does not form immediate impression - Forms immediate impression,5
+7,LB,Conventional - Innovative,4
+7,LB,Redundant - Informative,5
+7,LB,Hindering - Helpful,5
+7,LB,Boring - Entertaining,3
+7,LB,Ugly - Elegant,5
+7,CSA,Difficult to use - Easy to use,5
+7,CSA,Does not form immediate impression - Forms immediate impression,4
+7,CSA,Conventional - Innovative,4
+7,CSA,Redundant - Informative,5
+7,CSA,Hindering - Helpful,5
+7,CSA,Boring - Entertaining,4
+7,CSA,Ugly - Elegant,5
+8,IT,Difficult to use - Easy to use,4
+8,IT,Does not form immediate impression - Forms immediate impression,4
+8,IT,Conventional - Innovative,5
+8,IT,Redundant - Informative,5
+8,IT,Hindering - Helpful,5
+8,IT,Boring - Entertaining,3
+8,IT,Ugly - Elegant,3
+8,LB,Difficult to use - Easy to use,4
+8,LB,Does not form immediate impression - Forms immediate impression,4
+8,LB,Conventional - Innovative,4
+8,LB,Redundant - Informative,4
+8,LB,Hindering - Helpful,4
+8,LB,Boring - Entertaining,3
+8,LB,Ugly - Elegant,4
+8,CSA,Difficult to use - Easy to use,4
+8,CSA,Does not form immediate impression - Forms immediate impression,3
+8,CSA,Conventional - Innovative,3
+8,CSA,Redundant - Informative,4
+8,CSA,Hindering - Helpful,4
+8,CSA,Boring - Entertaining,4
+8,CSA,Ugly - Elegant,3
+9,IT,Difficult to use - Easy to use,4
+9,IT,Does not form immediate impression - Forms immediate impression,3
+9,IT,Conventional - Innovative,1
+9,IT,Redundant - Informative,4
+9,IT,Hindering - Helpful,4
+9,IT,Boring - Entertaining,3
+9,IT,Ugly - Elegant,3
+9,LB,Difficult to use - Easy to use,4
+9,LB,Does not form immediate impression - Forms immediate impression,4
+9,LB,Conventional - Innovative,3
+9,LB,Redundant - Informative,4
+9,LB,Hindering - Helpful,4
+9,LB,Boring - Entertaining,4
+9,LB,Ugly - Elegant,4
+9,CSA,Difficult to use - Easy to use,4
+9,CSA,Does not form immediate impression - Forms immediate impression,4
+9,CSA,Conventional - Innovative,4
+9,CSA,Redundant - Informative,3
+9,CSA,Hindering - Helpful,3
+9,CSA,Boring - Entertaining,4
+9,CSA,Ugly - Elegant,3
+10,IT,Difficult to use - Easy to use,4
+10,IT,Does not form immediate impression - Forms immediate impression,4
+10,IT,Conventional - Innovative,4
+10,IT,Redundant - Informative,4
+10,IT,Hindering - Helpful,4
+10,IT,Boring - Entertaining,4
+10,IT,Ugly - Elegant,4
+10,LB,Difficult to use - Easy to use,4
+10,LB,Does not form immediate impression - Forms immediate impression,4
+10,LB,Conventional - Innovative,4
+10,LB,Redundant - Informative,4
+10,LB,Hindering - Helpful,4
+10,LB,Boring - Entertaining,4
+10,LB,Ugly - Elegant,4
+10,CSA,Difficult to use - Easy to use,5
+10,CSA,Does not form immediate impression - Forms immediate impression,5
+10,CSA,Conventional - Innovative,1
+10,CSA,Redundant - Informative,5
+10,CSA,Hindering - Helpful,3
+10,CSA,Boring - Entertaining,3
+10,CSA,Ugly - Elegant,3
+11,IT,Difficult to use - Easy to use,5
+11,IT,Does not form immediate impression - Forms immediate impression,5
+11,IT,Conventional - Innovative,2
+11,IT,Redundant - Informative,5
+11,IT,Hindering - Helpful,5
+11,IT,Boring - Entertaining,3
+11,IT,Ugly - Elegant,4
+11,LB,Difficult to use - Easy to use,5
+11,LB,Does not form immediate impression - Forms immediate impression,5
+11,LB,Conventional - Innovative,3
+11,LB,Redundant - Informative,5
+11,LB,Hindering - Helpful,5
+11,LB,Boring - Entertaining,4
+11,LB,Ugly - Elegant,4
+11,CSA,Difficult to use - Easy to use,5
+11,CSA,Does not form immediate impression - Forms immediate impression,5
+11,CSA,Conventional - Innovative,4
+11,CSA,Redundant - Informative,5
+11,CSA,Hindering - Helpful,5
+11,CSA,Boring - Entertaining,4
+11,CSA,Ugly - Elegant,4
+12,IT,Difficult to use - Easy to use,5
+12,IT,Does not form immediate impression - Forms immediate impression,5
+12,IT,Conventional - Innovative,1
+12,IT,Redundant - Informative,5
+12,IT,Hindering - Helpful,5
+12,IT,Boring - Entertaining,2
+12,IT,Ugly - Elegant,3
+12,LB,Difficult to use - Easy to use,5
+12,LB,Does not form immediate impression - Forms immediate impression,4
+12,LB,Conventional - Innovative,5
+12,LB,Redundant - Informative,5
+12,LB,Hindering - Helpful,5
+12,LB,Boring - Entertaining,5
+12,LB,Ugly - Elegant,5
+12,CSA,Difficult to use - Easy to use,5
+12,CSA,Does not form immediate impression - Forms immediate impression,4
+12,CSA,Conventional - Innovative,4
+12,CSA,Redundant - Informative,4
+12,CSA,Hindering - Helpful,4
+12,CSA,Boring - Entertaining,5
+12,CSA,Ugly - Elegant,4
+13,IT,Difficult to use - Easy to use,5
+13,IT,Does not form immediate impression - Forms immediate impression,5
+13,IT,Conventional - Innovative,5
+13,IT,Redundant - Informative,5
+13,IT,Hindering - Helpful,5
+13,IT,Boring - Entertaining,4
+13,IT,Ugly - Elegant,5
+13,LB,Difficult to use - Easy to use,5
+13,LB,Does not form immediate impression - Forms immediate impression,2
+13,LB,Conventional - Innovative,2
+13,LB,Redundant - Informative,1
+13,LB,Hindering - Helpful,3
+13,LB,Boring - Entertaining,3
+13,LB,Ugly - Elegant,3
+13,CSA,Difficult to use - Easy to use,5
+13,CSA,Does not form immediate impression - Forms immediate impression,3
+13,CSA,Conventional - Innovative,4
+13,CSA,Redundant - Informative,4
+13,CSA,Hindering - Helpful,3
+13,CSA,Boring - Entertaining,3
+13,CSA,Ugly - Elegant,3
+14,IT,Difficult to use - Easy to use,5
+14,IT,Does not form immediate impression - Forms immediate impression,3
+14,IT,Conventional - Innovative,3
+14,IT,Redundant - Informative,4
+14,IT,Hindering - Helpful,2
+14,IT,Boring - Entertaining,2
+14,IT,Ugly - Elegant,3
+14,LB,Difficult to use - Easy to use,2
+14,LB,Does not form immediate impression - Forms immediate impression,2
+14,LB,Conventional - Innovative,2
+14,LB,Redundant - Informative,2
+14,LB,Hindering - Helpful,3
+14,LB,Boring - Entertaining,3
+14,LB,Ugly - Elegant,3
+14,CSA,Difficult to use - Easy to use,4
+14,CSA,Does not form immediate impression - Forms immediate impression,4
+14,CSA,Conventional - Innovative,3
+14,CSA,Redundant - Informative,4
+14,CSA,Hindering - Helpful,3
+14,CSA,Boring - Entertaining,3
+14,CSA,Ugly - Elegant,4
+15,IT,Difficult to use - Easy to use,5
+15,IT,Does not form immediate impression - Forms immediate impression,3
+15,IT,Conventional - Innovative,3
+15,IT,Redundant - Informative,5
+15,IT,Hindering - Helpful,3
+15,IT,Boring - Entertaining,3
+15,IT,Ugly - Elegant,3
+15,LB,Difficult to use - Easy to use,5
+15,LB,Does not form immediate impression - Forms immediate impression,4
+15,LB,Conventional - Innovative,4
+15,LB,Redundant - Informative,5
+15,LB,Hindering - Helpful,5
+15,LB,Boring - Entertaining,5
+15,LB,Ugly - Elegant,5
+15,CSA,Difficult to use - Easy to use,5
+15,CSA,Does not form immediate impression - Forms immediate impression,5
+15,CSA,Conventional - Innovative,4
+15,CSA,Redundant - Informative,5
+15,CSA,Hindering - Helpful,5
+15,CSA,Boring - Entertaining,5
+15,CSA,Ugly - Elegant,5
+16,IT,Difficult to use - Easy to use,4
+16,IT,Does not form immediate impression - Forms immediate impression,5
+16,IT,Conventional - Innovative,2
+16,IT,Redundant - Informative,5
+16,IT,Hindering - Helpful,5
+16,IT,Boring - Entertaining,3
+16,IT,Ugly - Elegant,3
+16,LB,Difficult to use - Easy to use,4
+16,LB,Does not form immediate impression - Forms immediate impression,4
+16,LB,Conventional - Innovative,5
+16,LB,Redundant - Informative,3
+16,LB,Hindering - Helpful,4
+16,LB,Boring - Entertaining,4
+16,LB,Ugly - Elegant,3
+16,CSA,Difficult to use - Easy to use,4
+16,CSA,Does not form immediate impression - Forms immediate impression,2
+16,CSA,Conventional - Innovative,4
+16,CSA,Redundant - Informative,2
+16,CSA,Hindering - Helpful,3
+16,CSA,Boring - Entertaining,4
+16,CSA,Ugly - Elegant,3
+17,IT,Difficult to use - Easy to use,5
+17,IT,Does not form immediate impression - Forms immediate impression,4
+17,IT,Conventional - Innovative,2
+17,IT,Redundant - Informative,5
+17,IT,Hindering - Helpful,4
+17,IT,Boring - Entertaining,3
+17,IT,Ugly - Elegant,3
+17,LB,Difficult to use - Easy to use,5
+17,LB,Does not form immediate impression - Forms immediate impression,4
+17,LB,Conventional - Innovative,3
+17,LB,Redundant - Informative,4
+17,LB,Hindering - Helpful,4
+17,LB,Boring - Entertaining,3
+17,LB,Ugly - Elegant,4
+17,CSA,Difficult to use - Easy to use,5
+17,CSA,Does not form immediate impression - Forms immediate impression,4
+17,CSA,Conventional - Innovative,4
+17,CSA,Redundant - Informative,4
+17,CSA,Hindering - Helpful,4
+17,CSA,Boring - Entertaining,3
+17,CSA,Ugly - Elegant,3
+18,IT,Difficult to use - Easy to use,5
+18,IT,Does not form immediate impression - Forms immediate impression,5
+18,IT,Conventional - Innovative,3
+18,IT,Redundant - Informative,5
+18,IT,Hindering - Helpful,5
+18,IT,Boring - Entertaining,4
+18,IT,Ugly - Elegant,5
+18,LB,Difficult to use - Easy to use,5
+18,LB,Does not form immediate impression - Forms immediate impression,5
+18,LB,Conventional - Innovative,4
+18,LB,Redundant - Informative,5
+18,LB,Hindering - Helpful,5
+18,LB,Boring - Entertaining,4
+18,LB,Ugly - Elegant,5
+18,CSA,Difficult to use - Easy to use,5
+18,CSA,Does not form immediate impression - Forms immediate impression,5
+18,CSA,Conventional - Innovative,5
+18,CSA,Redundant - Informative,5
+18,CSA,Hindering - Helpful,5
+18,CSA,Boring - Entertaining,5
+18,CSA,Ugly - Elegant,5
+19,IT,Difficult to use - Easy to use,5
+19,IT,Does not form immediate impression - Forms immediate impression,4
+19,IT,Conventional - Innovative,5
+19,IT,Redundant - Informative,4
+19,IT,Hindering - Helpful,5
+19,IT,Boring - Entertaining,4
+19,IT,Ugly - Elegant,4
+19,LB,Difficult to use - Easy to use,5
+19,LB,Does not form immediate impression - Forms immediate impression,4
+19,LB,Conventional - Innovative,2
+19,LB,Redundant - Informative,5
+19,LB,Hindering - Helpful,5
+19,LB,Boring - Entertaining,4
+19,LB,Ugly - Elegant,3
+19,CSA,Difficult to use - Easy to use,5
+19,CSA,Does not form immediate impression - Forms immediate impression,3
+19,CSA,Conventional - Innovative,4
+19,CSA,Redundant - Informative,5
+19,CSA,Hindering - Helpful,5
+19,CSA,Boring - Entertaining,5
+19,CSA,Ugly - Elegant,4
+20,IT,Difficult to use - Easy to use,4
+20,IT,Does not form immediate impression - Forms immediate impression,3
+20,IT,Conventional - Innovative,4
+20,IT,Redundant - Informative,5
+20,IT,Hindering - Helpful,5
+20,IT,Boring - Entertaining,4
+20,IT,Ugly - Elegant,3
+20,LB,Difficult to use - Easy to use,5
+20,LB,Does not form immediate impression - Forms immediate impression,3
+20,LB,Conventional - Innovative,4
+20,LB,Redundant - Informative,5
+20,LB,Hindering - Helpful,5
+20,LB,Boring - Entertaining,4
+20,LB,Ugly - Elegant,4
+20,CSA,Difficult to use - Easy to use,5
+20,CSA,Does not form immediate impression - Forms immediate impression,3
+20,CSA,Conventional - Innovative,4
+20,CSA,Redundant - Informative,5
+20,CSA,Hindering - Helpful,5
+20,CSA,Boring - Entertaining,5
+20,CSA,Ugly - Elegant,4
+21,IT,Difficult to use - Easy to use,4
+21,IT,Does not form immediate impression - Forms immediate impression,3
+21,IT,Conventional - Innovative,3
+21,IT,Redundant - Informative,5
+21,IT,Hindering - Helpful,5
+21,IT,Boring - Entertaining,2
+21,IT,Ugly - Elegant,2
+21,LB,Difficult to use - Easy to use,5
+21,LB,Does not form immediate impression - Forms immediate impression,5
+21,LB,Conventional - Innovative,5
+21,LB,Redundant - Informative,5
+21,LB,Hindering - Helpful,5
+21,LB,Boring - Entertaining,4
+21,LB,Ugly - Elegant,3
+21,CSA,Difficult to use - Easy to use,5
+21,CSA,Does not form immediate impression - Forms immediate impression,5
+21,CSA,Conventional - Innovative,5
+21,CSA,Redundant - Informative,5
+21,CSA,Hindering - Helpful,4
+21,CSA,Boring - Entertaining,4
+21,CSA,Ugly - Elegant,4
+22,IT,Difficult to use - Easy to use,4
+22,IT,Does not form immediate impression - Forms immediate impression,4
+22,IT,Conventional - Innovative,3
+22,IT,Redundant - Informative,4
+22,IT,Hindering - Helpful,4
+22,IT,Boring - Entertaining,3
+22,IT,Ugly - Elegant,3
+22,LB,Difficult to use - Easy to use,5
+22,LB,Does not form immediate impression - Forms immediate impression,5
+22,LB,Conventional - Innovative,3
+22,LB,Redundant - Informative,3
+22,LB,Hindering - Helpful,5
+22,LB,Boring - Entertaining,3
+22,LB,Ugly - Elegant,3
+22,CSA,Difficult to use - Easy to use,3
+22,CSA,Does not form immediate impression - Forms immediate impression,5
+22,CSA,Conventional - Innovative,3
+22,CSA,Redundant - Informative,3
+22,CSA,Hindering - Helpful,3
+22,CSA,Boring - Entertaining,3
+22,CSA,Ugly - Elegant,3
+23,IT,Difficult to use - Easy to use,5
+23,IT,Does not form immediate impression - Forms immediate impression,5
+23,IT,Conventional - Innovative,1
+23,IT,Redundant - Informative,5
+23,IT,Hindering - Helpful,5
+23,IT,Boring - Entertaining,3
+23,IT,Ugly - Elegant,4
+23,LB,Difficult to use - Easy to use,5
+23,LB,Does not form immediate impression - Forms immediate impression,5
+23,LB,Conventional - Innovative,3
+23,LB,Redundant - Informative,4
+23,LB,Hindering - Helpful,5
+23,LB,Boring - Entertaining,4
+23,LB,Ugly - Elegant,5
+23,CSA,Difficult to use - Easy to use,5
+23,CSA,Does not form immediate impression - Forms immediate impression,2
+23,CSA,Conventional - Innovative,4
+23,CSA,Redundant - Informative,4
+23,CSA,Hindering - Helpful,5
+23,CSA,Boring - Entertaining,3
+23,CSA,Ugly - Elegant,4
+24,IT,Difficult to use - Easy to use,5
+24,IT,Does not form immediate impression - Forms immediate impression,2
+24,IT,Conventional - Innovative,1
+24,IT,Redundant - Informative,2
+24,IT,Hindering - Helpful,2
+24,IT,Boring - Entertaining,3
+24,IT,Ugly - Elegant,3
+24,LB,Difficult to use - Easy to use,5
+24,LB,Does not form immediate impression - Forms immediate impression,4
+24,LB,Conventional - Innovative,4
+24,LB,Redundant - Informative,5
+24,LB,Hindering - Helpful,5
+24,LB,Boring - Entertaining,3
+24,LB,Ugly - Elegant,5
+24,CSA,Difficult to use - Easy to use,4
+24,CSA,Does not form immediate impression - Forms immediate impression,5
+24,CSA,Conventional - Innovative,3
+24,CSA,Redundant - Informative,3
+24,CSA,Hindering - Helpful,4
+24,CSA,Boring - Entertaining,3
+24,CSA,Ugly - Elegant,4
+25,IT,Difficult to use - Easy to use,5
+25,IT,Does not form immediate impression - Forms immediate impression,5
+25,IT,Conventional - Innovative,5
+25,IT,Redundant - Informative,5
+25,IT,Hindering - Helpful,5
+25,IT,Boring - Entertaining,5
+25,IT,Ugly - Elegant,5
+25,LB,Difficult to use - Easy to use,5
+25,LB,Does not form immediate impression - Forms immediate impression,5
+25,LB,Conventional - Innovative,5
+25,LB,Redundant - Informative,5
+25,LB,Hindering - Helpful,5
+25,LB,Boring - Entertaining,5
+25,LB,Ugly - Elegant,5
+25,CSA,Difficult to use - Easy to use,5
+25,CSA,Does not form immediate impression - Forms immediate impression,5
+25,CSA,Conventional - Innovative,5
+25,CSA,Redundant - Informative,5
+25,CSA,Hindering - Helpful,5
+25,CSA,Boring - Entertaining,5
+25,CSA,Ugly - Elegant,5
+26,IT,Difficult to use - Easy to use,4
+26,IT,Does not form immediate impression - Forms immediate impression,3
+26,IT,Conventional - Innovative,1
+26,IT,Redundant - Informative,4
+26,IT,Hindering - Helpful,4
+26,IT,Boring - Entertaining,3
+26,IT,Ugly - Elegant,3
+26,LB,Difficult to use - Easy to use,5
+26,LB,Does not form immediate impression - Forms immediate impression,4
+26,LB,Conventional - Innovative,4
+26,LB,Redundant - Informative,3
+26,LB,Hindering - Helpful,4
+26,LB,Boring - Entertaining,4
+26,LB,Ugly - Elegant,4
+26,CSA,Difficult to use - Easy to use,5
+26,CSA,Does not form immediate impression - Forms immediate impression,3
+26,CSA,Conventional - Innovative,3
+26,CSA,Redundant - Informative,3
+26,CSA,Hindering - Helpful,4
+26,CSA,Boring - Entertaining,3
+26,CSA,Ugly - Elegant,3
+27,IT,Difficult to use - Easy to use,5
+27,IT,Does not form immediate impression - Forms immediate impression,5
+27,IT,Conventional - Innovative,4
+27,IT,Redundant - Informative,4
+27,IT,Hindering - Helpful,5
+27,IT,Boring - Entertaining,4
+27,IT,Ugly - Elegant,4
+27,LB,Difficult to use - Easy to use,5
+27,LB,Does not form immediate impression - Forms immediate impression,5
+27,LB,Conventional - Innovative,3
+27,LB,Redundant - Informative,4
+27,LB,Hindering - Helpful,5
+27,LB,Boring - Entertaining,4
+27,LB,Ugly - Elegant,4
+27,CSA,Difficult to use - Easy to use,5
+27,CSA,Does not form immediate impression - Forms immediate impression,5
+27,CSA,Conventional - Innovative,5
+27,CSA,Redundant - Informative,4
+27,CSA,Hindering - Helpful,4
+27,CSA,Boring - Entertaining,5
+27,CSA,Ugly - Elegant,4
+28,IT,Difficult to use - Easy to use,5
+28,IT,Does not form immediate impression - Forms immediate impression,5
+28,IT,Conventional - Innovative,4
+28,IT,Redundant - Informative,5
+28,IT,Hindering - Helpful,5
+28,IT,Boring - Entertaining,3
+28,IT,Ugly - Elegant,5
+28,LB,Difficult to use - Easy to use,5
+28,LB,Does not form immediate impression - Forms immediate impression,5
+28,LB,Conventional - Innovative,5
+28,LB,Redundant - Informative,5
+28,LB,Hindering - Helpful,5
+28,LB,Boring - Entertaining,5
+28,LB,Ugly - Elegant,5
+28,CSA,Difficult to use - Easy to use,5
+28,CSA,Does not form immediate impression - Forms immediate impression,5
+28,CSA,Conventional - Innovative,5
+28,CSA,Redundant - Informative,5
+28,CSA,Hindering - Helpful,5
+28,CSA,Boring - Entertaining,5
+28,CSA,Ugly - Elegant,5
+29,IT,Difficult to use - Easy to use,5
+29,IT,Does not form immediate impression - Forms immediate impression,2
+29,IT,Conventional - Innovative,1
+29,IT,Redundant - Informative,4
+29,IT,Hindering - Helpful,4
+29,IT,Boring - Entertaining,2
+29,IT,Ugly - Elegant,4
+29,LB,Difficult to use - Easy to use,5
+29,LB,Does not form immediate impression - Forms immediate impression,4
+29,LB,Conventional - Innovative,2
+29,LB,Redundant - Informative,5
+29,LB,Hindering - Helpful,5
+29,LB,Boring - Entertaining,4
+29,LB,Ugly - Elegant,5
+29,CSA,Difficult to use - Easy to use,4
+29,CSA,Does not form immediate impression - Forms immediate impression,2
+29,CSA,Conventional - Innovative,3
+29,CSA,Redundant - Informative,3
+29,CSA,Hindering - Helpful,3
+29,CSA,Boring - Entertaining,4
+29,CSA,Ugly - Elegant,2
+30,IT,Difficult to use - Easy to use,5
+30,IT,Does not form immediate impression - Forms immediate impression,4
+30,IT,Conventional - Innovative,3
+30,IT,Redundant - Informative,4
+30,IT,Hindering - Helpful,4
+30,IT,Boring - Entertaining,4
+30,IT,Ugly - Elegant,4
+30,LB,Difficult to use - Easy to use,5
+30,LB,Does not form immediate impression - Forms immediate impression,5
+30,LB,Conventional - Innovative,5
+30,LB,Redundant - Informative,5
+30,LB,Hindering - Helpful,4
+30,LB,Boring - Entertaining,5
+30,LB,Ugly - Elegant,4
+30,CSA,Difficult to use - Easy to use,5
+30,CSA,Does not form immediate impression - Forms immediate impression,3
+30,CSA,Conventional - Innovative,3
+30,CSA,Redundant - Informative,4
+30,CSA,Hindering - Helpful,4
+30,CSA,Boring - Entertaining,3
+30,CSA,Ugly - Elegant,4
+31,IT,Difficult to use - Easy to use,5
+31,IT,Does not form immediate impression - Forms immediate impression,3
+31,IT,Conventional - Innovative,4
+31,IT,Redundant - Informative,4
+31,IT,Hindering - Helpful,4
+31,IT,Boring - Entertaining,4
+31,IT,Ugly - Elegant,5
+31,LB,Difficult to use - Easy to use,5
+31,LB,Does not form immediate impression - Forms immediate impression,5
+31,LB,Conventional - Innovative,5
+31,LB,Redundant - Informative,5
+31,LB,Hindering - Helpful,5
+31,LB,Boring - Entertaining,5
+31,LB,Ugly - Elegant,5
+31,CSA,Difficult to use - Easy to use,5
+31,CSA,Does not form immediate impression - Forms immediate impression,5
+31,CSA,Conventional - Innovative,4
+31,CSA,Redundant - Informative,5
+31,CSA,Hindering - Helpful,5
+31,CSA,Boring - Entertaining,5
+31,CSA,Ugly - Elegant,5
+32,IT,Difficult to use - Easy to use,4
+32,IT,Does not form immediate impression - Forms immediate impression,4
+32,IT,Conventional - Innovative,2
+32,IT,Redundant - Informative,5
+32,IT,Hindering - Helpful,5
+32,IT,Boring - Entertaining,4
+32,IT,Ugly - Elegant,4
+32,LB,Difficult to use - Easy to use,5
+32,LB,Does not form immediate impression - Forms immediate impression,2
+32,LB,Conventional - Innovative,3
+32,LB,Redundant - Informative,4
+32,LB,Hindering - Helpful,4
+32,LB,Boring - Entertaining,4
+32,LB,Ugly - Elegant,4
+32,CSA,Difficult to use - Easy to use,4
+32,CSA,Does not form immediate impression - Forms immediate impression,5
+32,CSA,Conventional - Innovative,5
+32,CSA,Redundant - Informative,4
+32,CSA,Hindering - Helpful,4
+32,CSA,Boring - Entertaining,4
+32,CSA,Ugly - Elegant,4
+33,IT,Difficult to use - Easy to use,5
+33,IT,Does not form immediate impression - Forms immediate impression,5
+33,IT,Conventional - Innovative,2
+33,IT,Redundant - Informative,5
+33,IT,Hindering - Helpful,5
+33,IT,Boring - Entertaining,3
+33,IT,Ugly - Elegant,5
+33,LB,Difficult to use - Easy to use,4
+33,LB,Does not form immediate impression - Forms immediate impression,2
+33,LB,Conventional - Innovative,2
+33,LB,Redundant - Informative,3
+33,LB,Hindering - Helpful,4
+33,LB,Boring - Entertaining,4
+33,LB,Ugly - Elegant,4
+33,CSA,Difficult to use - Easy to use,5
+33,CSA,Does not form immediate impression - Forms immediate impression,5
+33,CSA,Conventional - Innovative,3
+33,CSA,Redundant - Informative,5
+33,CSA,Hindering - Helpful,5
+33,CSA,Boring - Entertaining,5
+33,CSA,Ugly - Elegant,5
+34,IT,Difficult to use - Easy to use,5
+34,IT,Does not form immediate impression - Forms immediate impression,5
+34,IT,Conventional - Innovative,4
+34,IT,Redundant - Informative,4
+34,IT,Hindering - Helpful,5
+34,IT,Boring - Entertaining,4
+34,IT,Ugly - Elegant,5
+34,LB,Difficult to use - Easy to use,5
+34,LB,Does not form immediate impression - Forms immediate impression,5
+34,LB,Conventional - Innovative,5
+34,LB,Redundant - Informative,5
+34,LB,Hindering - Helpful,5
+34,LB,Boring - Entertaining,4
+34,LB,Ugly - Elegant,5
+34,CSA,Difficult to use - Easy to use,5
+34,CSA,Does not form immediate impression - Forms immediate impression,5
+34,CSA,Conventional - Innovative,5
+34,CSA,Redundant - Informative,4
+34,CSA,Hindering - Helpful,5
+34,CSA,Boring - Entertaining,4
+34,CSA,Ugly - Elegant,4
+35,IT,Difficult to use - Easy to use,5
+35,IT,Does not form immediate impression - Forms immediate impression,4
+35,IT,Conventional - Innovative,4
+35,IT,Redundant - Informative,5
+35,IT,Hindering - Helpful,5
+35,IT,Boring - Entertaining,4
+35,IT,Ugly - Elegant,5
+35,LB,Difficult to use - Easy to use,5
+35,LB,Does not form immediate impression - Forms immediate impression,5
+35,LB,Conventional - Innovative,5
+35,LB,Redundant - Informative,5
+35,LB,Hindering - Helpful,5
+35,LB,Boring - Entertaining,5
+35,LB,Ugly - Elegant,5
+35,CSA,Difficult to use - Easy to use,5
+35,CSA,Does not form immediate impression - Forms immediate impression,5
+35,CSA,Conventional - Innovative,5
+35,CSA,Redundant - Informative,5
+35,CSA,Hindering - Helpful,5
+35,CSA,Boring - Entertaining,5
+35,CSA,Ugly - Elegant,3
+36,IT,Difficult to use - Easy to use,5
+36,IT,Does not form immediate impression - Forms immediate impression,2
+36,IT,Conventional - Innovative,5
+36,IT,Redundant - Informative,5
+36,IT,Hindering - Helpful,4
+36,IT,Boring - Entertaining,3
+36,IT,Ugly - Elegant,3
+36,LB,Difficult to use - Easy to use,4
+36,LB,Does not form immediate impression - Forms immediate impression,5
+36,LB,Conventional - Innovative,5
+36,LB,Redundant - Informative,5
+36,LB,Hindering - Helpful,5
+36,LB,Boring - Entertaining,4
+36,LB,Ugly - Elegant,4
+36,CSA,Difficult to use - Easy to use,3
+36,CSA,Does not form immediate impression - Forms immediate impression,2
+36,CSA,Conventional - Innovative,2
+36,CSA,Redundant - Informative,3
+36,CSA,Hindering - Helpful,3
+36,CSA,Boring - Entertaining,3
+36,CSA,Ugly - Elegant,4
+37,IT,Difficult to use - Easy to use,5
+37,IT,Does not form immediate impression - Forms immediate impression,5
+37,IT,Conventional - Innovative,3
+37,IT,Redundant - Informative,5
+37,IT,Hindering - Helpful,5
+37,IT,Boring - Entertaining,4
+37,IT,Ugly - Elegant,4
+37,LB,Difficult to use - Easy to use,5
+37,LB,Does not form immediate impression - Forms immediate impression,5
+37,LB,Conventional - Innovative,5
+37,LB,Redundant - Informative,5
+37,LB,Hindering - Helpful,5
+37,LB,Boring - Entertaining,5
+37,LB,Ugly - Elegant,5
+37,CSA,Difficult to use - Easy to use,5
+37,CSA,Does not form immediate impression - Forms immediate impression,4
+37,CSA,Conventional - Innovative,3
+37,CSA,Redundant - Informative,4
+37,CSA,Hindering - Helpful,4
+37,CSA,Boring - Entertaining,3
+37,CSA,Ugly - Elegant,3
+38,IT,Difficult to use - Easy to use,4
+38,IT,Does not form immediate impression - Forms immediate impression,4
+38,IT,Conventional - Innovative,3
+38,IT,Redundant - Informative,5
+38,IT,Hindering - Helpful,5
+38,IT,Boring - Entertaining,3
+38,IT,Ugly - Elegant,3
+38,LB,Difficult to use - Easy to use,5
+38,LB,Does not form immediate impression - Forms immediate impression,5
+38,LB,Conventional - Innovative,3
+38,LB,Redundant - Informative,3
+38,LB,Hindering - Helpful,5
+38,LB,Boring - Entertaining,4
+38,LB,Ugly - Elegant,3
+38,CSA,Difficult to use - Easy to use,5
+38,CSA,Does not form immediate impression - Forms immediate impression,4
+38,CSA,Conventional - Innovative,3
+38,CSA,Redundant - Informative,4
+38,CSA,Hindering - Helpful,5
+38,CSA,Boring - Entertaining,3
+38,CSA,Ugly - Elegant,3
+39,IT,Difficult to use - Easy to use,4
+39,IT,Does not form immediate impression - Forms immediate impression,3
+39,IT,Conventional - Innovative,4
+39,IT,Redundant - Informative,4
+39,IT,Hindering - Helpful,4
+39,IT,Boring - Entertaining,3
+39,IT,Ugly - Elegant,4
+39,LB,Difficult to use - Easy to use,5
+39,LB,Does not form immediate impression - Forms immediate impression,4
+39,LB,Conventional - Innovative,5
+39,LB,Redundant - Informative,5
+39,LB,Hindering - Helpful,4
+39,LB,Boring - Entertaining,3
+39,LB,Ugly - Elegant,4
+39,CSA,Difficult to use - Easy to use,4
+39,CSA,Does not form immediate impression - Forms immediate impression,4
+39,CSA,Conventional - Innovative,4
+39,CSA,Redundant - Informative,5
+39,CSA,Hindering - Helpful,5
+39,CSA,Boring - Entertaining,3
+39,CSA,Ugly - Elegant,4
+40,IT,Difficult to use - Easy to use,4
+40,IT,Does not form immediate impression - Forms immediate impression,3
+40,IT,Conventional - Innovative,4
+40,IT,Redundant - Informative,5
+40,IT,Hindering - Helpful,4
+40,IT,Boring - Entertaining,3
+40,IT,Ugly - Elegant,4
+40,LB,Difficult to use - Easy to use,5
+40,LB,Does not form immediate impression - Forms immediate impression,5
+40,LB,Conventional - Innovative,5
+40,LB,Redundant - Informative,5
+40,LB,Hindering - Helpful,5
+40,LB,Boring - Entertaining,5
+40,LB,Ugly - Elegant,5
+40,CSA,Difficult to use - Easy to use,4
+40,CSA,Does not form immediate impression - Forms immediate impression,4
+40,CSA,Conventional - Innovative,4
+40,CSA,Redundant - Informative,4
+40,CSA,Hindering - Helpful,3
+40,CSA,Boring - Entertaining,3
+40,CSA,Ugly - Elegant,2
+41,IT,Difficult to use - Easy to use,5
+41,IT,Does not form immediate impression - Forms immediate impression,3
+41,IT,Conventional - Innovative,2
+41,IT,Redundant - Informative,2
+41,IT,Hindering - Helpful,4
+41,IT,Boring - Entertaining,4
+41,IT,Ugly - Elegant,4
+41,LB,Difficult to use - Easy to use,5
+41,LB,Does not form immediate impression - Forms immediate impression,5
+41,LB,Conventional - Innovative,4
+41,LB,Redundant - Informative,5
+41,LB,Hindering - Helpful,5
+41,LB,Boring - Entertaining,4
+41,LB,Ugly - Elegant,5
+41,CSA,Difficult to use - Easy to use,5
+41,CSA,Does not form immediate impression - Forms immediate impression,5
+41,CSA,Conventional - Innovative,5
+41,CSA,Redundant - Informative,5
+41,CSA,Hindering - Helpful,5
+41,CSA,Boring - Entertaining,4
+41,CSA,Ugly - Elegant,5
+42,IT,Difficult to use - Easy to use,5
+42,IT,Does not form immediate impression - Forms immediate impression,3
+42,IT,Conventional - Innovative,2
+42,IT,Redundant - Informative,4
+42,IT,Hindering - Helpful,4
+42,IT,Boring - Entertaining,4
+42,IT,Ugly - Elegant,3
+42,LB,Difficult to use - Easy to use,4
+42,LB,Does not form immediate impression - Forms immediate impression,5
+42,LB,Conventional - Innovative,4
+42,LB,Redundant - Informative,5
+42,LB,Hindering - Helpful,5
+42,LB,Boring - Entertaining,4
+42,LB,Ugly - Elegant,4
+42,CSA,Difficult to use - Easy to use,5
+42,CSA,Does not form immediate impression - Forms immediate impression,2
+42,CSA,Conventional - Innovative,2
+42,CSA,Redundant - Informative,2
+42,CSA,Hindering - Helpful,3
+42,CSA,Boring - Entertaining,3
+42,CSA,Ugly - Elegant,3
+43,IT,Difficult to use - Easy to use,5
+43,IT,Does not form immediate impression - Forms immediate impression,4
+43,IT,Conventional - Innovative,3
+43,IT,Redundant - Informative,4
+43,IT,Hindering - Helpful,5
+43,IT,Boring - Entertaining,5
+43,IT,Ugly - Elegant,5
+43,LB,Difficult to use - Easy to use,4
+43,LB,Does not form immediate impression - Forms immediate impression,4
+43,LB,Conventional - Innovative,5
+43,LB,Redundant - Informative,4
+43,LB,Hindering - Helpful,5
+43,LB,Boring - Entertaining,5
+43,LB,Ugly - Elegant,4
+43,CSA,Difficult to use - Easy to use,3
+43,CSA,Does not form immediate impression - Forms immediate impression,4
+43,CSA,Conventional - Innovative,1
+43,CSA,Redundant - Informative,4
+43,CSA,Hindering - Helpful,4
+43,CSA,Boring - Entertaining,4
+43,CSA,Ugly - Elegant,3
+44,IT,Difficult to use - Easy to use,5
+44,IT,Does not form immediate impression - Forms immediate impression,5
+44,IT,Conventional - Innovative,5
+44,IT,Redundant - Informative,5
+44,IT,Hindering - Helpful,5
+44,IT,Boring - Entertaining,3
+44,IT,Ugly - Elegant,3
+44,LB,Difficult to use - Easy to use,3
+44,LB,Does not form immediate impression - Forms immediate impression,5
+44,LB,Conventional - Innovative,1
+44,LB,Redundant - Informative,5
+44,LB,Hindering - Helpful,4
+44,LB,Boring - Entertaining,2
+44,LB,Ugly - Elegant,3
+44,CSA,Difficult to use - Easy to use,5
+44,CSA,Does not form immediate impression - Forms immediate impression,4
+44,CSA,Conventional - Innovative,5
+44,CSA,Redundant - Informative,5
+44,CSA,Hindering - Helpful,5
+44,CSA,Boring - Entertaining,5
+44,CSA,Ugly - Elegant,5
+45,IT,Difficult to use - Easy to use,5
+45,IT,Does not form immediate impression - Forms immediate impression,4
+45,IT,Conventional - Innovative,2
+45,IT,Redundant - Informative,4
+45,IT,Hindering - Helpful,4
+45,IT,Boring - Entertaining,3
+45,IT,Ugly - Elegant,3
+45,LB,Difficult to use - Easy to use,5
+45,LB,Does not form immediate impression - Forms immediate impression,5
+45,LB,Conventional - Innovative,5
+45,LB,Redundant - Informative,4
+45,LB,Hindering - Helpful,4
+45,LB,Boring - Entertaining,5
+45,LB,Ugly - Elegant,5
+45,CSA,Difficult to use - Easy to use,4
+45,CSA,Does not form immediate impression - Forms immediate impression,4
+45,CSA,Conventional - Innovative,4
+45,CSA,Redundant - Informative,3
+45,CSA,Hindering - Helpful,2
+45,CSA,Boring - Entertaining,3
+45,CSA,Ugly - Elegant,3
+46,IT,Difficult to use - Easy to use,5
+46,IT,Does not form immediate impression - Forms immediate impression,5
+46,IT,Conventional - Innovative,2
+46,IT,Redundant - Informative,5
+46,IT,Hindering - Helpful,5
+46,IT,Boring - Entertaining,5
+46,IT,Ugly - Elegant,3
+46,LB,Difficult to use - Easy to use,5
+46,LB,Does not form immediate impression - Forms immediate impression,5
+46,LB,Conventional - Innovative,2
+46,LB,Redundant - Informative,4
+46,LB,Hindering - Helpful,4
+46,LB,Boring - Entertaining,3
+46,LB,Ugly - Elegant,4
+46,CSA,Difficult to use - Easy to use,5
+46,CSA,Does not form immediate impression - Forms immediate impression,5
+46,CSA,Conventional - Innovative,4
+46,CSA,Redundant - Informative,5
+46,CSA,Hindering - Helpful,5
+46,CSA,Boring - Entertaining,5
+46,CSA,Ugly - Elegant,5
+47,IT,Difficult to use - Easy to use,4
+47,IT,Does not form immediate impression - Forms immediate impression,4
+47,IT,Conventional - Innovative,4
+47,IT,Redundant - Informative,5
+47,IT,Hindering - Helpful,4
+47,IT,Boring - Entertaining,3
+47,IT,Ugly - Elegant,3
+47,LB,Difficult to use - Easy to use,5
+47,LB,Does not form immediate impression - Forms immediate impression,5
+47,LB,Conventional - Innovative,3
+47,LB,Redundant - Informative,5
+47,LB,Hindering - Helpful,5
+47,LB,Boring - Entertaining,3
+47,LB,Ugly - Elegant,4
+47,CSA,Difficult to use - Easy to use,4
+47,CSA,Does not form immediate impression - Forms immediate impression,5
+47,CSA,Conventional - Innovative,4
+47,CSA,Redundant - Informative,5
+47,CSA,Hindering - Helpful,4
+47,CSA,Boring - Entertaining,4
+47,CSA,Ugly - Elegant,4
+48,IT,Difficult to use - Easy to use,5
+48,IT,Does not form immediate impression - Forms immediate impression,4
+48,IT,Conventional - Innovative,2
+48,IT,Redundant - Informative,5
+48,IT,Hindering - Helpful,4
+48,IT,Boring - Entertaining,4
+48,IT,Ugly - Elegant,4
+48,LB,Difficult to use - Easy to use,3
+48,LB,Does not form immediate impression - Forms immediate impression,3
+48,LB,Conventional - Innovative,1
+48,LB,Redundant - Informative,4
+48,LB,Hindering - Helpful,4
+48,LB,Boring - Entertaining,2
+48,LB,Ugly - Elegant,2
+48,CSA,Difficult to use - Easy to use,5
+48,CSA,Does not form immediate impression - Forms immediate impression,5
+48,CSA,Conventional - Innovative,4
+48,CSA,Redundant - Informative,5
+48,CSA,Hindering - Helpful,5
+48,CSA,Boring - Entertaining,5
+48,CSA,Ugly - Elegant,5
+49,IT,Difficult to use - Easy to use,5
+49,IT,Does not form immediate impression - Forms immediate impression,3
+49,IT,Conventional - Innovative,5
+49,IT,Redundant - Informative,5
+49,IT,Hindering - Helpful,5
+49,IT,Boring - Entertaining,4
+49,IT,Ugly - Elegant,4
+49,LB,Difficult to use - Easy to use,5
+49,LB,Does not form immediate impression - Forms immediate impression,5
+49,LB,Conventional - Innovative,5
+49,LB,Redundant - Informative,5
+49,LB,Hindering - Helpful,5
+49,LB,Boring - Entertaining,5
+49,LB,Ugly - Elegant,5
+49,CSA,Difficult to use - Easy to use,5
+49,CSA,Does not form immediate impression - Forms immediate impression,5
+49,CSA,Conventional - Innovative,5
+49,CSA,Redundant - Informative,5
+49,CSA,Hindering - Helpful,5
+49,CSA,Boring - Entertaining,5
+49,CSA,Ugly - Elegant,5
+50,IT,Difficult to use - Easy to use,4
+50,IT,Does not form immediate impression - Forms immediate impression,3
+50,IT,Conventional - Innovative,3
+50,IT,Redundant - Informative,5
+50,IT,Hindering - Helpful,4
+50,IT,Boring - Entertaining,3
+50,IT,Ugly - Elegant,4
+50,LB,Difficult to use - Easy to use,3
+50,LB,Does not form immediate impression - Forms immediate impression,5
+50,LB,Conventional - Innovative,4
+50,LB,Redundant - Informative,4
+50,LB,Hindering - Helpful,4
+50,LB,Boring - Entertaining,3
+50,LB,Ugly - Elegant,4
+50,CSA,Difficult to use - Easy to use,4
+50,CSA,Does not form immediate impression - Forms immediate impression,3
+50,CSA,Conventional - Innovative,2
+50,CSA,Redundant - Informative,4
+50,CSA,Hindering - Helpful,4
+50,CSA,Boring - Entertaining,3
+50,CSA,Ugly - Elegant,4
+51,IT,Difficult to use - Easy to use,4
+51,IT,Does not form immediate impression - Forms immediate impression,3
+51,IT,Conventional - Innovative,2
+51,IT,Redundant - Informative,3
+51,IT,Hindering - Helpful,2
+51,IT,Boring - Entertaining,2
+51,IT,Ugly - Elegant,3
+51,LB,Difficult to use - Easy to use,4
+51,LB,Does not form immediate impression - Forms immediate impression,4
+51,LB,Conventional - Innovative,5
+51,LB,Redundant - Informative,4
+51,LB,Hindering - Helpful,4
+51,LB,Boring - Entertaining,4
+51,LB,Ugly - Elegant,4
+51,CSA,Difficult to use - Easy to use,2
+51,CSA,Does not form immediate impression - Forms immediate impression,5
+51,CSA,Conventional - Innovative,3
+51,CSA,Redundant - Informative,4
+51,CSA,Hindering - Helpful,3
+51,CSA,Boring - Entertaining,3
+51,CSA,Ugly - Elegant,3
+52,IT,Difficult to use - Easy to use,4
+52,IT,Does not form immediate impression - Forms immediate impression,4
+52,IT,Conventional - Innovative,2
+52,IT,Redundant - Informative,4
+52,IT,Hindering - Helpful,5
+52,IT,Boring - Entertaining,3
+52,IT,Ugly - Elegant,3
+52,LB,Difficult to use - Easy to use,5
+52,LB,Does not form immediate impression - Forms immediate impression,4
+52,LB,Conventional - Innovative,4
+52,LB,Redundant - Informative,4
+52,LB,Hindering - Helpful,4
+52,LB,Boring - Entertaining,5
+52,LB,Ugly - Elegant,5
+52,CSA,Difficult to use - Easy to use,3
+52,CSA,Does not form immediate impression - Forms immediate impression,3
+52,CSA,Conventional - Innovative,4
+52,CSA,Redundant - Informative,4
+52,CSA,Hindering - Helpful,3
+52,CSA,Boring - Entertaining,5
+52,CSA,Ugly - Elegant,5
+53,IT,Difficult to use - Easy to use,5
+53,IT,Does not form immediate impression - Forms immediate impression,5
+53,IT,Conventional - Innovative,3
+53,IT,Redundant - Informative,5
+53,IT,Hindering - Helpful,4
+53,IT,Boring - Entertaining,4
+53,IT,Ugly - Elegant,4
+53,LB,Difficult to use - Easy to use,5
+53,LB,Does not form immediate impression - Forms immediate impression,5
+53,LB,Conventional - Innovative,4
+53,LB,Redundant - Informative,5
+53,LB,Hindering - Helpful,5
+53,LB,Boring - Entertaining,4
+53,LB,Ugly - Elegant,5
+53,CSA,Difficult to use - Easy to use,4
+53,CSA,Does not form immediate impression - Forms immediate impression,3
+53,CSA,Conventional - Innovative,4
+53,CSA,Redundant - Informative,4
+53,CSA,Hindering - Helpful,4
+53,CSA,Boring - Entertaining,5
+53,CSA,Ugly - Elegant,5
+54,IT,Difficult to use - Easy to use,5
+54,IT,Does not form immediate impression - Forms immediate impression,3
+54,IT,Conventional - Innovative,1
+54,IT,Redundant - Informative,4
+54,IT,Hindering - Helpful,4
+54,IT,Boring - Entertaining,1
+54,IT,Ugly - Elegant,3
+54,LB,Difficult to use - Easy to use,5
+54,LB,Does not form immediate impression - Forms immediate impression,3
+54,LB,Conventional - Innovative,5
+54,LB,Redundant - Informative,5
+54,LB,Hindering - Helpful,5
+54,LB,Boring - Entertaining,4
+54,LB,Ugly - Elegant,4
+54,CSA,Difficult to use - Easy to use,5
+54,CSA,Does not form immediate impression - Forms immediate impression,5
+54,CSA,Conventional - Innovative,5
+54,CSA,Redundant - Informative,5
+54,CSA,Hindering - Helpful,5
+54,CSA,Boring - Entertaining,5
+54,CSA,Ugly - Elegant,5
+55,IT,Difficult to use - Easy to use,5
+55,IT,Does not form immediate impression - Forms immediate impression,5
+55,IT,Conventional - Innovative,1
+55,IT,Redundant - Informative,5
+55,IT,Hindering - Helpful,5
+55,IT,Boring - Entertaining,5
+55,IT,Ugly - Elegant,5
+55,LB,Difficult to use - Easy to use,5
+55,LB,Does not form immediate impression - Forms immediate impression,5
+55,LB,Conventional - Innovative,1
+55,LB,Redundant - Informative,5
+55,LB,Hindering - Helpful,5
+55,LB,Boring - Entertaining,5
+55,LB,Ugly - Elegant,5
+55,CSA,Difficult to use - Easy to use,5
+55,CSA,Does not form immediate impression - Forms immediate impression,3
+55,CSA,Conventional - Innovative,1
+55,CSA,Redundant - Informative,3
+55,CSA,Hindering - Helpful,3
+55,CSA,Boring - Entertaining,1
+55,CSA,Ugly - Elegant,3

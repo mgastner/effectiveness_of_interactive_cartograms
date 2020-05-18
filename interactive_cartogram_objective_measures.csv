@@ -1,0 +1,2201 @@
+question,participant_id,task_type,interactive_feature,answer_is_correct,response_time
+1,1,Cluster,All,TRUE,73.142
+1,2,Cluster,None,TRUE,93.666
+1,3,Cluster,LB,TRUE,86.228
+1,4,Cluster,IT,TRUE,56.851
+1,5,Cluster,CSA,TRUE,46.66
+1,6,Cluster,All,TRUE,90.683
+1,7,Cluster,None,TRUE,35.606
+1,8,Cluster,LB,TRUE,45.429
+1,9,Cluster,IT,TRUE,51.049
+1,10,Cluster,CSA,FALSE,88.304
+1,11,Cluster,All,TRUE,81.731
+1,12,Cluster,None,TRUE,65.244
+1,13,Cluster,LB,TRUE,64.027
+1,14,Cluster,IT,TRUE,50.778
+1,15,Cluster,CSA,FALSE,129.491
+1,16,Cluster,All,TRUE,81.269
+1,17,Cluster,None,FALSE,138.834
+1,18,Cluster,LB,TRUE,101.989
+1,19,Cluster,IT,TRUE,86.178
+1,20,Cluster,CSA,FALSE,94.437
+1,21,Cluster,All,TRUE,29.44
+1,22,Cluster,None,TRUE,78.22
+1,23,Cluster,LB,TRUE,67.605
+1,24,Cluster,IT,TRUE,66.778
+1,25,Cluster,CSA,TRUE,195.362
+1,26,Cluster,All,TRUE,79.975
+1,27,Cluster,None,TRUE,76.021
+1,28,Cluster,LB,FALSE,77.818
+1,29,Cluster,IT,TRUE,67.142
+1,30,Cluster,CSA,FALSE,68.129
+1,31,Cluster,All,TRUE,66.477
+1,32,Cluster,None,TRUE,127.766
+1,33,Cluster,LB,TRUE,112.439
+1,34,Cluster,IT,TRUE,86.627
+1,35,Cluster,CSA,TRUE,110.233
+1,36,Cluster,All,TRUE,45.863
+1,37,Cluster,None,TRUE,63.522
+1,38,Cluster,LB,TRUE,88.673
+1,39,Cluster,IT,TRUE,89.468
+1,40,Cluster,CSA,TRUE,90.404
+1,41,Cluster,All,TRUE,53.777
+1,42,Cluster,None,TRUE,73.08
+1,43,Cluster,LB,TRUE,45.582
+1,44,Cluster,IT,TRUE,60.755
+1,45,Cluster,CSA,TRUE,47.817
+1,46,Cluster,All,TRUE,59.354
+1,47,Cluster,None,TRUE,73.898
+1,48,Cluster,LB,FALSE,64.742
+1,49,Cluster,IT,TRUE,65.165
+1,50,Cluster,CSA,TRUE,60.662
+1,51,Cluster,All,TRUE,91.625
+1,52,Cluster,None,TRUE,43.511
+1,53,Cluster,LB,TRUE,138.47
+1,54,Cluster,IT,TRUE,90.083
+1,55,Cluster,CSA,FALSE,81.606
+2,1,Compare,IT,TRUE,34.543
+2,2,Compare,CSA,TRUE,45.407
+2,3,Compare,All,TRUE,25.464
+2,4,Compare,None,TRUE,44.4
+2,5,Compare,LB,TRUE,31.74
+2,6,Compare,IT,TRUE,30.053
+2,7,Compare,CSA,TRUE,43.548
+2,8,Compare,All,TRUE,27.931
+2,9,Compare,None,TRUE,26.77
+2,10,Compare,LB,TRUE,35.027
+2,11,Compare,IT,TRUE,43.018
+2,12,Compare,CSA,TRUE,42.06
+2,13,Compare,All,TRUE,39.281
+2,14,Compare,None,TRUE,29.26
+2,15,Compare,LB,TRUE,36.595
+2,16,Compare,IT,TRUE,43.696
+2,17,Compare,CSA,TRUE,43.29
+2,18,Compare,All,TRUE,54.548
+2,19,Compare,None,TRUE,42.755
+2,20,Compare,LB,TRUE,35.236
+2,21,Compare,IT,TRUE,33.719
+2,22,Compare,CSA,TRUE,37.298
+2,23,Compare,All,TRUE,36.154
+2,24,Compare,None,TRUE,31.87
+2,25,Compare,LB,TRUE,52.71
+2,26,Compare,IT,TRUE,34.67
+2,27,Compare,CSA,TRUE,38.975
+2,28,Compare,All,TRUE,59.312
+2,29,Compare,None,TRUE,28.908
+2,30,Compare,LB,TRUE,26.66
+2,31,Compare,IT,TRUE,42.192
+2,32,Compare,CSA,TRUE,42.625
+2,33,Compare,All,TRUE,32.55
+2,34,Compare,None,TRUE,35.727
+2,35,Compare,LB,TRUE,30.257
+2,36,Compare,IT,TRUE,23.973
+2,37,Compare,CSA,FALSE,27.721
+2,38,Compare,All,TRUE,34.809
+2,39,Compare,None,TRUE,27.939
+2,40,Compare,LB,TRUE,30.084
+2,41,Compare,IT,TRUE,46.669
+2,42,Compare,CSA,TRUE,34.054
+2,43,Compare,All,TRUE,31.885
+2,44,Compare,None,FALSE,60.068
+2,45,Compare,LB,TRUE,32.156
+2,46,Compare,IT,TRUE,64.257
+2,47,Compare,CSA,TRUE,41.313
+2,48,Compare,All,TRUE,43.962
+2,49,Compare,None,TRUE,30.368
+2,50,Compare,LB,TRUE,45.726
+2,51,Compare,IT,TRUE,43.151
+2,52,Compare,CSA,FALSE,38.236
+2,53,Compare,All,TRUE,24.206
+2,54,Compare,None,TRUE,55.271
+2,55,Compare,LB,TRUE,43.475
+3,1,Detect Change,None,TRUE,40.472
+3,2,Detect Change,LB,TRUE,42.85
+3,3,Detect Change,IT,TRUE,32.306
+3,4,Detect Change,CSA,TRUE,44.589
+3,5,Detect Change,All,TRUE,23.373
+3,6,Detect Change,None,TRUE,23.921
+3,7,Detect Change,LB,TRUE,26.052
+3,8,Detect Change,IT,TRUE,29.238
+3,9,Detect Change,CSA,TRUE,52.938
+3,10,Detect Change,All,TRUE,38.645
+3,11,Detect Change,None,TRUE,37.868
+3,12,Detect Change,LB,TRUE,39.337
+3,13,Detect Change,IT,TRUE,48.313
+3,14,Detect Change,CSA,TRUE,27.247
+3,15,Detect Change,All,TRUE,36.003
+3,16,Detect Change,None,TRUE,46.719
+3,17,Detect Change,LB,TRUE,32.723
+3,18,Detect Change,IT,TRUE,68.957
+3,19,Detect Change,CSA,TRUE,52.087
+3,20,Detect Change,All,TRUE,38.332
+3,21,Detect Change,None,TRUE,40.891
+3,22,Detect Change,LB,TRUE,35.409
+3,23,Detect Change,IT,TRUE,49.639
+3,24,Detect Change,CSA,TRUE,29.499
+3,25,Detect Change,All,TRUE,70.707
+3,26,Detect Change,None,TRUE,35.147
+3,27,Detect Change,LB,TRUE,47.283
+3,28,Detect Change,IT,TRUE,38.941
+3,29,Detect Change,CSA,TRUE,27.731
+3,30,Detect Change,All,TRUE,36.261
+3,31,Detect Change,None,TRUE,41.062
+3,32,Detect Change,LB,TRUE,32.252
+3,33,Detect Change,IT,TRUE,45.75
+3,34,Detect Change,CSA,TRUE,48.246
+3,35,Detect Change,All,TRUE,27.074
+3,36,Detect Change,None,TRUE,34.04
+3,37,Detect Change,LB,TRUE,14.538
+3,38,Detect Change,IT,TRUE,46.679
+3,39,Detect Change,CSA,TRUE,38.373
+3,40,Detect Change,All,TRUE,47.932
+3,41,Detect Change,None,TRUE,35.343
+3,42,Detect Change,LB,TRUE,34.381
+3,43,Detect Change,IT,TRUE,34.489
+3,44,Detect Change,CSA,TRUE,36.391
+3,45,Detect Change,All,TRUE,27.429
+3,46,Detect Change,None,TRUE,42.586
+3,47,Detect Change,LB,TRUE,31.17
+3,48,Detect Change,IT,TRUE,60.03
+3,49,Detect Change,CSA,TRUE,41.725
+3,50,Detect Change,All,TRUE,42.633
+3,51,Detect Change,None,TRUE,34.811
+3,52,Detect Change,LB,TRUE,27.479
+3,53,Detect Change,IT,TRUE,49.397
+3,54,Detect Change,CSA,TRUE,34.381
+3,55,Detect Change,All,TRUE,34.721
+4,1,Recognize,IT,TRUE,20.274
+4,2,Recognize,CSA,TRUE,31.928
+4,3,Recognize,All,TRUE,10.041
+4,4,Recognize,None,TRUE,34.029
+4,5,Recognize,LB,TRUE,27.735
+4,6,Recognize,IT,TRUE,18.843
+4,7,Recognize,CSA,TRUE,11.939
+4,8,Recognize,All,TRUE,11.335
+4,9,Recognize,None,TRUE,12.369
+4,10,Recognize,LB,TRUE,11.224
+4,11,Recognize,IT,TRUE,12.874
+4,12,Recognize,CSA,TRUE,31.285
+4,13,Recognize,All,TRUE,27.032
+4,14,Recognize,None,TRUE,9.128
+4,15,Recognize,LB,TRUE,13.891
+4,16,Recognize,IT,TRUE,28.217
+4,17,Recognize,CSA,TRUE,17.448
+4,18,Recognize,All,TRUE,12.51
+4,19,Recognize,None,TRUE,17.133
+4,20,Recognize,LB,TRUE,11.329
+4,21,Recognize,IT,TRUE,11.383
+4,22,Recognize,CSA,TRUE,54.623
+4,23,Recognize,All,TRUE,12.821
+4,24,Recognize,None,TRUE,15.764
+4,25,Recognize,LB,TRUE,29.334
+4,26,Recognize,IT,TRUE,11.624
+4,27,Recognize,CSA,TRUE,21.776
+4,28,Recognize,All,TRUE,16.45
+4,29,Recognize,None,TRUE,21.896
+4,30,Recognize,LB,TRUE,16.736
+4,31,Recognize,IT,TRUE,14.109
+4,32,Recognize,CSA,TRUE,17.772
+4,33,Recognize,All,TRUE,17.171
+4,34,Recognize,None,TRUE,15.308
+4,35,Recognize,LB,TRUE,22.417
+4,36,Recognize,IT,TRUE,10.466
+4,37,Recognize,CSA,TRUE,5.239
+4,38,Recognize,All,TRUE,16.662
+4,39,Recognize,None,TRUE,9.647
+4,40,Recognize,LB,TRUE,27.771
+4,41,Recognize,IT,TRUE,11.141
+4,42,Recognize,CSA,TRUE,19.854
+4,43,Recognize,All,TRUE,11.311
+4,44,Recognize,None,TRUE,22.446
+4,45,Recognize,LB,TRUE,14.549
+4,46,Recognize,IT,TRUE,31.617
+4,47,Recognize,CSA,TRUE,23.385
+4,48,Recognize,All,TRUE,9.859
+4,49,Recognize,None,TRUE,13.446
+4,50,Recognize,LB,TRUE,16.578
+4,51,Recognize,IT,TRUE,13.345
+4,52,Recognize,CSA,TRUE,19.753
+4,53,Recognize,All,TRUE,10.885
+4,54,Recognize,None,TRUE,27.492
+4,55,Recognize,LB,TRUE,8.609
+5,1,Summarize,IT,TRUE,102.49
+5,2,Summarize,CSA,TRUE,52.16
+5,3,Summarize,All,TRUE,49.336
+5,4,Summarize,None,FALSE,60.598
+5,5,Summarize,LB,FALSE,62.59
+5,6,Summarize,IT,FALSE,68.655
+5,7,Summarize,CSA,TRUE,39.954
+5,8,Summarize,All,TRUE,51.975
+5,9,Summarize,None,FALSE,28.114
+5,10,Summarize,LB,FALSE,29.566
+5,11,Summarize,IT,TRUE,46.814
+5,12,Summarize,CSA,TRUE,48.732
+5,13,Summarize,All,TRUE,75.575
+5,14,Summarize,None,FALSE,41.965
+5,15,Summarize,LB,FALSE,71.33
+5,16,Summarize,IT,TRUE,63.618
+5,17,Summarize,CSA,TRUE,41.979
+5,18,Summarize,All,TRUE,50.731
+5,19,Summarize,None,TRUE,140.367
+5,20,Summarize,LB,FALSE,45.178
+5,21,Summarize,IT,FALSE,27.793
+5,22,Summarize,CSA,TRUE,73.765
+5,23,Summarize,All,TRUE,34.816
+5,24,Summarize,None,FALSE,40.607
+5,25,Summarize,LB,FALSE,75.256
+5,26,Summarize,IT,FALSE,87.924
+5,27,Summarize,CSA,TRUE,50.263
+5,28,Summarize,All,TRUE,79.618
+5,29,Summarize,None,FALSE,38.874
+5,30,Summarize,LB,FALSE,62.125
+5,31,Summarize,IT,FALSE,62.923
+5,32,Summarize,CSA,TRUE,64.102
+5,33,Summarize,All,TRUE,54.579
+5,34,Summarize,None,FALSE,53.201
+5,35,Summarize,LB,FALSE,48.978
+5,36,Summarize,IT,FALSE,33.383
+5,37,Summarize,CSA,FALSE,33.468
+5,38,Summarize,All,TRUE,62.117
+5,39,Summarize,None,FALSE,40.739
+5,40,Summarize,LB,FALSE,49.808
+5,41,Summarize,IT,FALSE,78.38
+5,42,Summarize,CSA,FALSE,40.026
+5,43,Summarize,All,TRUE,58.602
+5,44,Summarize,None,FALSE,67.521
+5,45,Summarize,LB,FALSE,46.318
+5,46,Summarize,IT,FALSE,65.868
+5,47,Summarize,CSA,TRUE,40.521
+5,48,Summarize,All,TRUE,46.847
+5,49,Summarize,None,FALSE,44.098
+5,50,Summarize,LB,FALSE,63.913
+5,51,Summarize,IT,FALSE,34.892
+5,52,Summarize,CSA,TRUE,45.529
+5,53,Summarize,All,TRUE,48.542
+5,54,Summarize,None,FALSE,86.619
+5,55,Summarize,LB,FALSE,64.134
+6,1,Detect Change,All,TRUE,47.895
+6,2,Detect Change,None,FALSE,48.439
+6,3,Detect Change,LB,TRUE,28.877
+6,4,Detect Change,IT,TRUE,58.483
+6,5,Detect Change,CSA,TRUE,32.223
+6,6,Detect Change,All,TRUE,44.27
+6,7,Detect Change,None,TRUE,31.726
+6,8,Detect Change,LB,FALSE,31.789
+6,9,Detect Change,IT,TRUE,24.784
+6,10,Detect Change,CSA,TRUE,23.055
+6,11,Detect Change,All,FALSE,28.619
+6,12,Detect Change,None,TRUE,49.431
+6,13,Detect Change,LB,TRUE,66.888
+6,14,Detect Change,IT,TRUE,20.675
+6,15,Detect Change,CSA,TRUE,35.73
+6,16,Detect Change,All,TRUE,48.456
+6,17,Detect Change,None,TRUE,40.514
+6,18,Detect Change,LB,TRUE,50.57
+6,19,Detect Change,IT,TRUE,41.259
+6,20,Detect Change,CSA,TRUE,36.574
+6,21,Detect Change,All,TRUE,56.51
+6,22,Detect Change,None,TRUE,60.245
+6,23,Detect Change,LB,TRUE,36.948
+6,24,Detect Change,IT,TRUE,28.675
+6,25,Detect Change,CSA,TRUE,40.121
+6,26,Detect Change,All,TRUE,60.902
+6,27,Detect Change,None,FALSE,28.895
+6,28,Detect Change,LB,TRUE,33.209
+6,29,Detect Change,IT,TRUE,18.981
+6,30,Detect Change,CSA,FALSE,36.179
+6,31,Detect Change,All,TRUE,32.056
+6,32,Detect Change,None,TRUE,45.046
+6,33,Detect Change,LB,TRUE,50.335
+6,34,Detect Change,IT,TRUE,32.245
+6,35,Detect Change,CSA,TRUE,25.231
+6,36,Detect Change,All,TRUE,30.215
+6,37,Detect Change,None,FALSE,19.97
+6,38,Detect Change,LB,TRUE,45.086
+6,39,Detect Change,IT,TRUE,30.749
+6,40,Detect Change,CSA,TRUE,29.274
+6,41,Detect Change,All,TRUE,50.536
+6,42,Detect Change,None,TRUE,24.275
+6,43,Detect Change,LB,FALSE,31.431
+6,44,Detect Change,IT,TRUE,37.079
+6,45,Detect Change,CSA,TRUE,16.853
+6,46,Detect Change,All,TRUE,51.178
+6,47,Detect Change,None,TRUE,39.951
+6,48,Detect Change,LB,TRUE,23.992
+6,49,Detect Change,IT,TRUE,36.066
+6,50,Detect Change,CSA,TRUE,30.357
+6,51,Detect Change,All,TRUE,31.165
+6,52,Detect Change,None,TRUE,25.434
+6,53,Detect Change,LB,TRUE,35.283
+6,54,Detect Change,IT,TRUE,22.073
+6,55,Detect Change,CSA,TRUE,18.933
+7,1,Filter,All,TRUE,61.464
+7,2,Filter,None,TRUE,34.975
+7,3,Filter,LB,FALSE,59.441
+7,4,Filter,IT,TRUE,69.2
+7,5,Filter,CSA,TRUE,54.948
+7,6,Filter,All,TRUE,30.494
+7,7,Filter,None,TRUE,24.306
+7,8,Filter,LB,FALSE,24.642
+7,9,Filter,IT,TRUE,26.588
+7,10,Filter,CSA,TRUE,31.606
+7,11,Filter,All,TRUE,26.937
+7,12,Filter,None,TRUE,57.628
+7,13,Filter,LB,TRUE,64.058
+7,14,Filter,IT,FALSE,58.11
+7,15,Filter,CSA,TRUE,63.69
+7,16,Filter,All,TRUE,36.863
+7,17,Filter,None,TRUE,43.644
+7,18,Filter,LB,FALSE,102.632
+7,19,Filter,IT,TRUE,55.734
+7,20,Filter,CSA,FALSE,53.692
+7,21,Filter,All,TRUE,48.723
+7,22,Filter,None,TRUE,75.73
+7,23,Filter,LB,TRUE,52.734
+7,24,Filter,IT,TRUE,58.514
+7,25,Filter,CSA,TRUE,63.725
+7,26,Filter,All,TRUE,44.873
+7,27,Filter,None,TRUE,43.266
+7,28,Filter,LB,TRUE,67.137
+7,29,Filter,IT,TRUE,48.072
+7,30,Filter,CSA,FALSE,29.547
+7,31,Filter,All,FALSE,65.217
+7,32,Filter,None,TRUE,50.566
+7,33,Filter,LB,TRUE,88.888
+7,34,Filter,IT,TRUE,42.347
+7,35,Filter,CSA,TRUE,37.637
+7,36,Filter,All,TRUE,44.039
+7,37,Filter,None,TRUE,39.491
+7,38,Filter,LB,TRUE,32.817
+7,39,Filter,IT,TRUE,62.963
+7,40,Filter,CSA,TRUE,53.96
+7,41,Filter,All,TRUE,45.837
+7,42,Filter,None,TRUE,30.386
+7,43,Filter,LB,TRUE,57.743
+7,44,Filter,IT,TRUE,62.647
+7,45,Filter,CSA,TRUE,25.829
+7,46,Filter,All,TRUE,47.301
+7,47,Filter,None,TRUE,39.956
+7,48,Filter,LB,TRUE,33.08
+7,49,Filter,IT,TRUE,29.984
+7,50,Filter,CSA,FALSE,36.637
+7,51,Filter,All,TRUE,52.087
+7,52,Filter,None,TRUE,52.318
+7,53,Filter,LB,FALSE,60.225
+7,54,Filter,IT,TRUE,45.098
+7,55,Filter,CSA,TRUE,21.972
+8,1,Compare,None,FALSE,26.485
+8,2,Compare,LB,FALSE,41.359
+8,3,Compare,IT,TRUE,27.935
+8,4,Compare,CSA,TRUE,39.085
+8,5,Compare,All,TRUE,27.105
+8,6,Compare,None,TRUE,31.15
+8,7,Compare,LB,TRUE,18.459
+8,8,Compare,IT,TRUE,33.466
+8,9,Compare,CSA,TRUE,33.935
+8,10,Compare,All,TRUE,32.386
+8,11,Compare,None,TRUE,27.642
+8,12,Compare,LB,TRUE,30.827
+8,13,Compare,IT,TRUE,60.308
+8,14,Compare,CSA,TRUE,22.828
+8,15,Compare,All,TRUE,39.854
+8,16,Compare,None,TRUE,31.142
+8,17,Compare,LB,FALSE,33.449
+8,18,Compare,IT,TRUE,68.404
+8,19,Compare,CSA,FALSE,48.719
+8,20,Compare,All,TRUE,17.401
+8,21,Compare,None,TRUE,47.093
+8,22,Compare,LB,FALSE,54.98
+8,23,Compare,IT,TRUE,32.68
+8,24,Compare,CSA,TRUE,21.226
+8,25,Compare,All,TRUE,42.868
+8,26,Compare,None,TRUE,39.201
+8,27,Compare,LB,FALSE,52.266
+8,28,Compare,IT,FALSE,27.132
+8,29,Compare,CSA,TRUE,22.378
+8,30,Compare,All,FALSE,48.22
+8,31,Compare,None,TRUE,49.023
+8,32,Compare,LB,FALSE,37.991
+8,33,Compare,IT,TRUE,69.755
+8,34,Compare,CSA,FALSE,26.862
+8,35,Compare,All,TRUE,19.252
+8,36,Compare,None,TRUE,32.773
+8,37,Compare,LB,FALSE,12.308
+8,38,Compare,IT,FALSE,28.381
+8,39,Compare,CSA,FALSE,13.246
+8,40,Compare,All,TRUE,40.01
+8,41,Compare,None,TRUE,34.297
+8,42,Compare,LB,TRUE,44.343
+8,43,Compare,IT,TRUE,16.405
+8,44,Compare,CSA,TRUE,44.16
+8,45,Compare,All,TRUE,17.526
+8,46,Compare,None,FALSE,29.12
+8,47,Compare,LB,TRUE,26.972
+8,48,Compare,IT,TRUE,27.59
+8,49,Compare,CSA,TRUE,48.087
+8,50,Compare,All,TRUE,27.223
+8,51,Compare,None,TRUE,17.467
+8,52,Compare,LB,TRUE,39.287
+8,53,Compare,IT,TRUE,40.798
+8,54,Compare,CSA,TRUE,75.828
+8,55,Compare,All,TRUE,27.558
+9,1,Cluster,LB,TRUE,45.507
+9,2,Cluster,IT,TRUE,69.163
+9,3,Cluster,CSA,FALSE,80.24
+9,4,Cluster,All,FALSE,59.719
+9,5,Cluster,None,TRUE,64.885
+9,6,Cluster,LB,FALSE,76.567
+9,7,Cluster,IT,TRUE,44.532
+9,8,Cluster,CSA,TRUE,30.669
+9,9,Cluster,All,TRUE,54.658
+9,10,Cluster,None,FALSE,32.734
+9,11,Cluster,LB,TRUE,47.77
+9,12,Cluster,IT,TRUE,67.966
+9,13,Cluster,CSA,TRUE,56.418
+9,14,Cluster,All,TRUE,101.023
+9,15,Cluster,None,TRUE,70.565
+9,16,Cluster,LB,TRUE,61.75
+9,17,Cluster,IT,FALSE,56.72
+9,18,Cluster,CSA,TRUE,180.802
+9,19,Cluster,All,TRUE,41.383
+9,20,Cluster,None,TRUE,57.771
+9,21,Cluster,LB,FALSE,56.492
+9,22,Cluster,IT,TRUE,80.381
+9,23,Cluster,CSA,FALSE,73.914
+9,24,Cluster,All,TRUE,22.05
+9,25,Cluster,None,TRUE,164.787
+9,26,Cluster,LB,TRUE,64.99
+9,27,Cluster,IT,FALSE,38.612
+9,28,Cluster,CSA,TRUE,32.215
+9,29,Cluster,All,TRUE,37.298
+9,30,Cluster,None,FALSE,27.518
+9,31,Cluster,LB,FALSE,33.353
+9,32,Cluster,IT,TRUE,82.398
+9,33,Cluster,CSA,TRUE,92.989
+9,34,Cluster,All,TRUE,76.73
+9,35,Cluster,None,FALSE,56.722
+9,36,Cluster,LB,FALSE,25.228
+9,37,Cluster,IT,TRUE,27.086
+9,38,Cluster,CSA,FALSE,50.006
+9,39,Cluster,All,FALSE,105.963
+9,40,Cluster,None,FALSE,64.358
+9,41,Cluster,LB,FALSE,58.862
+9,42,Cluster,IT,FALSE,30.454
+9,43,Cluster,CSA,TRUE,53.595
+9,44,Cluster,All,TRUE,59.301
+9,45,Cluster,None,TRUE,33.962
+9,46,Cluster,LB,TRUE,57.871
+9,47,Cluster,IT,FALSE,70.502
+9,48,Cluster,CSA,FALSE,16.829
+9,49,Cluster,All,FALSE,116.965
+9,50,Cluster,None,TRUE,42.705
+9,51,Cluster,LB,TRUE,77.354
+9,52,Cluster,IT,TRUE,59.871
+9,53,Cluster,CSA,FALSE,70.031
+9,54,Cluster,All,TRUE,118.474
+9,55,Cluster,None,TRUE,57.446
+10,1,Filter,LB,TRUE,70.072
+10,2,Filter,IT,TRUE,70.615
+10,3,Filter,CSA,TRUE,64.902
+10,4,Filter,All,FALSE,106.153
+10,5,Filter,None,TRUE,64.178
+10,6,Filter,LB,TRUE,55.245
+10,7,Filter,IT,TRUE,76.839
+10,8,Filter,CSA,TRUE,31.502
+10,9,Filter,All,FALSE,78.71
+10,10,Filter,None,TRUE,43.475
+10,11,Filter,LB,FALSE,69.8
+10,12,Filter,IT,TRUE,84.91
+10,13,Filter,CSA,FALSE,77.365
+10,14,Filter,All,TRUE,18.176
+10,15,Filter,None,TRUE,38.768
+10,16,Filter,LB,TRUE,84.929
+10,17,Filter,IT,TRUE,110.089
+10,18,Filter,CSA,TRUE,107.815
+10,19,Filter,All,TRUE,75.455
+10,20,Filter,None,TRUE,92.277
+10,21,Filter,LB,TRUE,26.49
+10,22,Filter,IT,FALSE,125.706
+10,23,Filter,CSA,TRUE,122.908
+10,24,Filter,All,TRUE,68.781
+10,25,Filter,None,TRUE,98.471
+10,26,Filter,LB,TRUE,46.065
+10,27,Filter,IT,TRUE,60.81
+10,28,Filter,CSA,FALSE,112.938
+10,29,Filter,All,TRUE,126.641
+10,30,Filter,None,TRUE,35.47
+10,31,Filter,LB,TRUE,37.168
+10,32,Filter,IT,TRUE,54.262
+10,33,Filter,CSA,TRUE,78.814
+10,34,Filter,All,TRUE,73.984
+10,35,Filter,None,TRUE,44.23
+10,36,Filter,LB,TRUE,72.422
+10,37,Filter,IT,TRUE,43.812
+10,38,Filter,CSA,FALSE,74.656
+10,39,Filter,All,TRUE,52.109
+10,40,Filter,None,TRUE,112.584
+10,41,Filter,LB,TRUE,54.065
+10,42,Filter,IT,TRUE,25.975
+10,43,Filter,CSA,TRUE,19.682
+10,44,Filter,All,TRUE,59.896
+10,45,Filter,None,TRUE,57.709
+10,46,Filter,LB,FALSE,51.335
+10,47,Filter,IT,TRUE,107.035
+10,48,Filter,CSA,FALSE,86.699
+10,49,Filter,All,FALSE,97.941
+10,50,Filter,None,TRUE,53.908
+10,51,Filter,LB,FALSE,119.173
+10,52,Filter,IT,TRUE,68.739
+10,53,Filter,CSA,TRUE,73.16
+10,54,Filter,All,TRUE,118.336
+10,55,Filter,None,TRUE,45.171
+11,1,Find Adjacency,None,TRUE,35.075
+11,2,Find Adjacency,LB,TRUE,14.913
+11,3,Find Adjacency,IT,TRUE,19.658
+11,4,Find Adjacency,CSA,TRUE,64.134
+11,5,Find Adjacency,All,TRUE,35.915
+11,6,Find Adjacency,None,TRUE,21.442
+11,7,Find Adjacency,LB,TRUE,18.178
+11,8,Find Adjacency,IT,TRUE,24.536
+11,9,Find Adjacency,CSA,TRUE,16.992
+11,10,Find Adjacency,All,TRUE,19.886
+11,11,Find Adjacency,None,TRUE,26.623
+11,12,Find Adjacency,LB,TRUE,41.67
+11,13,Find Adjacency,IT,TRUE,38.673
+11,14,Find Adjacency,CSA,TRUE,42.465
+11,15,Find Adjacency,All,TRUE,13.994
+11,16,Find Adjacency,None,TRUE,21.754
+11,17,Find Adjacency,LB,TRUE,20.906
+11,18,Find Adjacency,IT,TRUE,36.191
+11,19,Find Adjacency,CSA,TRUE,38.064
+11,20,Find Adjacency,All,TRUE,17.399
+11,21,Find Adjacency,None,TRUE,15.967
+11,22,Find Adjacency,LB,TRUE,40.275
+11,23,Find Adjacency,IT,TRUE,18.22
+11,24,Find Adjacency,CSA,TRUE,20.36
+11,25,Find Adjacency,All,TRUE,36.508
+11,26,Find Adjacency,None,TRUE,21.534
+11,27,Find Adjacency,LB,TRUE,24.15
+11,28,Find Adjacency,IT,FALSE,23.552
+11,29,Find Adjacency,CSA,TRUE,29.589
+11,30,Find Adjacency,All,TRUE,32.324
+11,31,Find Adjacency,None,TRUE,19.726
+11,32,Find Adjacency,LB,TRUE,21.225
+11,33,Find Adjacency,IT,TRUE,29.379
+11,34,Find Adjacency,CSA,TRUE,21.17
+11,35,Find Adjacency,All,TRUE,26.968
+11,36,Find Adjacency,None,TRUE,32.998
+11,37,Find Adjacency,LB,TRUE,27.257
+11,38,Find Adjacency,IT,TRUE,37.724
+11,39,Find Adjacency,CSA,TRUE,19.713
+11,40,Find Adjacency,All,TRUE,28.569
+11,41,Find Adjacency,None,TRUE,37.101
+11,42,Find Adjacency,LB,TRUE,35.283
+11,43,Find Adjacency,IT,TRUE,25.178
+11,44,Find Adjacency,CSA,TRUE,25.187
+11,45,Find Adjacency,All,TRUE,19.06
+11,46,Find Adjacency,None,TRUE,18.627
+11,47,Find Adjacency,LB,TRUE,25.23
+11,48,Find Adjacency,IT,TRUE,22.246
+11,49,Find Adjacency,CSA,TRUE,21.92
+11,50,Find Adjacency,All,TRUE,17.353
+11,51,Find Adjacency,None,TRUE,28.053
+11,52,Find Adjacency,LB,TRUE,23.58
+11,53,Find Adjacency,IT,TRUE,25.232
+11,54,Find Adjacency,CSA,TRUE,16.092
+11,55,Find Adjacency,All,TRUE,38.341
+12,1,Find Top,All,TRUE,64.044
+12,2,Find Top,None,TRUE,12.408
+12,3,Find Top,LB,TRUE,21.384
+12,4,Find Top,IT,TRUE,20.077
+12,5,Find Top,CSA,TRUE,10.944
+12,6,Find Top,All,TRUE,9.122
+12,7,Find Top,None,TRUE,8.703
+12,8,Find Top,LB,TRUE,11.673
+12,9,Find Top,IT,TRUE,12.542
+12,10,Find Top,CSA,TRUE,11.153
+12,11,Find Top,All,TRUE,9.206
+12,12,Find Top,None,TRUE,22.571
+12,13,Find Top,LB,TRUE,39.081
+12,14,Find Top,IT,TRUE,10.191
+12,15,Find Top,CSA,TRUE,22.817
+12,16,Find Top,All,TRUE,22.433
+12,17,Find Top,None,TRUE,14.497
+12,18,Find Top,LB,TRUE,15.165
+12,19,Find Top,IT,TRUE,20.094
+12,20,Find Top,CSA,TRUE,14.212
+12,21,Find Top,All,TRUE,7.508
+12,22,Find Top,None,TRUE,11.577
+12,23,Find Top,LB,TRUE,6.054
+12,24,Find Top,IT,TRUE,10.567
+12,25,Find Top,CSA,TRUE,23.882
+12,26,Find Top,All,TRUE,14.001
+12,27,Find Top,None,TRUE,12.475
+12,28,Find Top,LB,TRUE,8.525
+12,29,Find Top,IT,TRUE,12.867
+12,30,Find Top,CSA,TRUE,11.964
+12,31,Find Top,All,TRUE,16.205
+12,32,Find Top,None,TRUE,22.722
+12,33,Find Top,LB,TRUE,35.587
+12,34,Find Top,IT,TRUE,19.347
+12,35,Find Top,CSA,TRUE,8.612
+12,36,Find Top,All,TRUE,4.78
+12,37,Find Top,None,TRUE,13.707
+12,38,Find Top,LB,TRUE,19.663
+12,39,Find Top,IT,TRUE,14.579
+12,40,Find Top,CSA,TRUE,13.254
+12,41,Find Top,All,TRUE,11.975
+12,42,Find Top,None,TRUE,11.161
+12,43,Find Top,LB,TRUE,20.337
+12,44,Find Top,IT,TRUE,38.787
+12,45,Find Top,CSA,TRUE,10.841
+12,46,Find Top,All,TRUE,15.303
+12,47,Find Top,None,TRUE,10.634
+12,48,Find Top,LB,TRUE,8.378
+12,49,Find Top,IT,TRUE,30.673
+12,50,Find Top,CSA,TRUE,12.874
+12,51,Find Top,All,TRUE,29.325
+12,52,Find Top,None,TRUE,10.139
+12,53,Find Top,LB,TRUE,13.349
+12,54,Find Top,IT,TRUE,38.133
+12,55,Find Top,CSA,TRUE,10.853
+13,1,Cluster,CSA,TRUE,51.858
+13,2,Cluster,All,TRUE,58.651
+13,3,Cluster,None,TRUE,94.243
+13,4,Cluster,LB,TRUE,34.646
+13,5,Cluster,IT,TRUE,93.706
+13,6,Cluster,CSA,TRUE,59.986
+13,7,Cluster,All,TRUE,22.957
+13,8,Cluster,None,TRUE,50.178
+13,9,Cluster,LB,TRUE,57.63
+13,10,Cluster,IT,FALSE,70.608
+13,11,Cluster,CSA,TRUE,74.614
+13,12,Cluster,All,TRUE,49.773
+13,13,Cluster,None,TRUE,63.166
+13,14,Cluster,LB,FALSE,66.974
+13,15,Cluster,IT,TRUE,59.712
+13,16,Cluster,CSA,TRUE,49.965
+13,17,Cluster,All,TRUE,83.354
+13,18,Cluster,None,TRUE,97.117
+13,19,Cluster,LB,TRUE,82.133
+13,20,Cluster,IT,TRUE,54.104
+13,21,Cluster,CSA,TRUE,27.633
+13,22,Cluster,All,TRUE,38.007
+13,23,Cluster,None,TRUE,70.76
+13,24,Cluster,LB,TRUE,32.43
+13,25,Cluster,IT,TRUE,46.405
+13,26,Cluster,CSA,TRUE,37.75
+13,27,Cluster,All,TRUE,77.864
+13,28,Cluster,None,TRUE,67.546
+13,29,Cluster,LB,TRUE,31.961
+13,30,Cluster,IT,TRUE,75.163
+13,31,Cluster,CSA,TRUE,60.811
+13,32,Cluster,All,TRUE,69.453
+13,33,Cluster,None,TRUE,68.518
+13,34,Cluster,LB,TRUE,49.917
+13,35,Cluster,IT,TRUE,28.866
+13,36,Cluster,CSA,FALSE,39.306
+13,37,Cluster,All,TRUE,38.476
+13,38,Cluster,None,TRUE,83.444
+13,39,Cluster,LB,TRUE,56.622
+13,40,Cluster,IT,TRUE,49.103
+13,41,Cluster,CSA,TRUE,72.261
+13,42,Cluster,All,TRUE,52.826
+13,43,Cluster,None,TRUE,71.189
+13,44,Cluster,LB,TRUE,97.398
+13,45,Cluster,IT,TRUE,18.48
+13,46,Cluster,CSA,TRUE,62.325
+13,47,Cluster,All,TRUE,110.686
+13,48,Cluster,None,TRUE,41.172
+13,49,Cluster,LB,TRUE,72.925
+13,50,Cluster,IT,TRUE,47.861
+13,51,Cluster,CSA,TRUE,23.215
+13,52,Cluster,All,TRUE,68.747
+13,53,Cluster,None,TRUE,58.392
+13,54,Cluster,LB,TRUE,33.737
+13,55,Cluster,IT,TRUE,49.467
+14,1,Compare,CSA,TRUE,16.93
+14,2,Compare,All,TRUE,47.775
+14,3,Compare,None,TRUE,35.625
+14,4,Compare,LB,FALSE,62.243
+14,5,Compare,IT,TRUE,63.736
+14,6,Compare,CSA,TRUE,50.958
+14,7,Compare,All,TRUE,52.055
+14,8,Compare,None,TRUE,17.872
+14,9,Compare,LB,TRUE,39.905
+14,10,Compare,IT,FALSE,31.846
+14,11,Compare,CSA,TRUE,27.527
+14,12,Compare,All,TRUE,44.545
+14,13,Compare,None,TRUE,27.994
+14,14,Compare,LB,TRUE,22.793
+14,15,Compare,IT,TRUE,41.686
+14,16,Compare,CSA,TRUE,34.495
+14,17,Compare,All,TRUE,19.907
+14,18,Compare,None,TRUE,56.325
+14,19,Compare,LB,TRUE,15.948
+14,20,Compare,IT,TRUE,21.163
+14,21,Compare,CSA,TRUE,26.616
+14,22,Compare,All,TRUE,31.493
+14,23,Compare,None,TRUE,50.051
+14,24,Compare,LB,TRUE,10.327
+14,25,Compare,IT,TRUE,28.458
+14,26,Compare,CSA,TRUE,45.097
+14,27,Compare,All,TRUE,24.157
+14,28,Compare,None,TRUE,48.31
+14,29,Compare,LB,TRUE,60.452
+14,30,Compare,IT,TRUE,49.414
+14,31,Compare,CSA,TRUE,28.088
+14,32,Compare,All,TRUE,52.106
+14,33,Compare,None,TRUE,16.843
+14,34,Compare,LB,TRUE,28.939
+14,35,Compare,IT,TRUE,36.53
+14,36,Compare,CSA,TRUE,32.202
+14,37,Compare,All,TRUE,12.65
+14,38,Compare,None,TRUE,40.219
+14,39,Compare,LB,FALSE,22.773
+14,40,Compare,IT,TRUE,82.461
+14,41,Compare,CSA,TRUE,64.243
+14,42,Compare,All,TRUE,14.141
+14,43,Compare,None,TRUE,24.634
+14,44,Compare,LB,TRUE,40.206
+14,45,Compare,IT,TRUE,26.927
+14,46,Compare,CSA,TRUE,24.63
+14,47,Compare,All,TRUE,20.159
+14,48,Compare,None,TRUE,36.832
+14,49,Compare,LB,TRUE,43.346
+14,50,Compare,IT,TRUE,89.59
+14,51,Compare,CSA,TRUE,33.065
+14,52,Compare,All,TRUE,21.333
+14,53,Compare,None,TRUE,18.598
+14,54,Compare,LB,TRUE,32.552
+14,55,Compare,IT,TRUE,32.648
+15,1,Find Top,LB,TRUE,37.168
+15,2,Find Top,IT,TRUE,33.175
+15,3,Find Top,CSA,TRUE,29.519
+15,4,Find Top,All,TRUE,38.662
+15,5,Find Top,None,TRUE,25.309
+15,6,Find Top,LB,TRUE,51.684
+15,7,Find Top,IT,TRUE,12.069
+15,8,Find Top,CSA,TRUE,34.12
+15,9,Find Top,All,TRUE,26.618
+15,10,Find Top,None,TRUE,24.888
+15,11,Find Top,LB,TRUE,41.618
+15,12,Find Top,IT,TRUE,50.546
+15,13,Find Top,CSA,TRUE,42.68
+15,14,Find Top,All,TRUE,27.824
+15,15,Find Top,None,TRUE,24.576
+15,16,Find Top,LB,TRUE,31.628
+15,17,Find Top,IT,TRUE,53.253
+15,18,Find Top,CSA,TRUE,77.274
+15,19,Find Top,All,TRUE,37.613
+15,20,Find Top,None,TRUE,30.66
+15,21,Find Top,LB,TRUE,38.344
+15,22,Find Top,IT,TRUE,34.21
+15,23,Find Top,CSA,TRUE,35.925
+15,24,Find Top,All,TRUE,15.474
+15,25,Find Top,None,TRUE,37.675
+15,26,Find Top,LB,TRUE,34.009
+15,27,Find Top,IT,TRUE,109.736
+15,28,Find Top,CSA,TRUE,49.556
+15,29,Find Top,All,TRUE,19.015
+15,30,Find Top,None,TRUE,25.353
+15,31,Find Top,LB,TRUE,33.964
+15,32,Find Top,IT,TRUE,37.375
+15,33,Find Top,CSA,TRUE,30.512
+15,34,Find Top,All,TRUE,27.466
+15,35,Find Top,None,TRUE,25.006
+15,36,Find Top,LB,TRUE,11.011
+15,37,Find Top,IT,TRUE,20.263
+15,38,Find Top,CSA,TRUE,55.699
+15,39,Find Top,All,TRUE,113.151
+15,40,Find Top,None,TRUE,88.376
+15,41,Find Top,LB,TRUE,30.477
+15,42,Find Top,IT,TRUE,26.646
+15,43,Find Top,CSA,TRUE,42.453
+15,44,Find Top,All,TRUE,46.206
+15,45,Find Top,None,TRUE,33.239
+15,46,Find Top,LB,TRUE,56.8
+15,47,Find Top,IT,TRUE,20.438
+15,48,Find Top,CSA,TRUE,41.043
+15,49,Find Top,All,TRUE,30.26
+15,50,Find Top,None,TRUE,53.855
+15,51,Find Top,LB,TRUE,72.657
+15,52,Find Top,IT,TRUE,50.832
+15,53,Find Top,CSA,TRUE,38.293
+15,54,Find Top,All,TRUE,37.979
+15,55,Find Top,None,TRUE,71.87
+16,1,Find Adjacency,LB,TRUE,37.322
+16,2,Find Adjacency,IT,TRUE,28.604
+16,3,Find Adjacency,CSA,TRUE,34.648
+16,4,Find Adjacency,All,TRUE,15.636
+16,5,Find Adjacency,None,TRUE,16.906
+16,6,Find Adjacency,LB,TRUE,33.739
+16,7,Find Adjacency,IT,TRUE,19.41
+16,8,Find Adjacency,CSA,TRUE,34.77
+16,9,Find Adjacency,All,TRUE,15.785
+16,10,Find Adjacency,None,TRUE,32.422
+16,11,Find Adjacency,LB,TRUE,19.212
+16,12,Find Adjacency,IT,TRUE,53.348
+16,13,Find Adjacency,CSA,TRUE,49.467
+16,14,Find Adjacency,All,TRUE,30.08
+16,15,Find Adjacency,None,TRUE,34.984
+16,16,Find Adjacency,LB,FALSE,28.12
+16,17,Find Adjacency,IT,TRUE,24.068
+16,18,Find Adjacency,CSA,TRUE,33.992
+16,19,Find Adjacency,All,TRUE,47.43
+16,20,Find Adjacency,None,TRUE,16.873
+16,21,Find Adjacency,LB,TRUE,13.559
+16,22,Find Adjacency,IT,TRUE,40.771
+16,23,Find Adjacency,CSA,TRUE,23.607
+16,24,Find Adjacency,All,TRUE,22.617
+16,25,Find Adjacency,None,TRUE,56.913
+16,26,Find Adjacency,LB,TRUE,15.199
+16,27,Find Adjacency,IT,TRUE,24.118
+16,28,Find Adjacency,CSA,TRUE,40.43
+16,29,Find Adjacency,All,TRUE,21.163
+16,30,Find Adjacency,None,TRUE,19.248
+16,31,Find Adjacency,LB,TRUE,17.793
+16,32,Find Adjacency,IT,TRUE,26.321
+16,33,Find Adjacency,CSA,TRUE,28.208
+16,34,Find Adjacency,All,TRUE,22.235
+16,35,Find Adjacency,None,TRUE,21.268
+16,36,Find Adjacency,LB,TRUE,21.284
+16,37,Find Adjacency,IT,TRUE,19.522
+16,38,Find Adjacency,CSA,TRUE,26.434
+16,39,Find Adjacency,All,TRUE,23.298
+16,40,Find Adjacency,None,TRUE,13.635
+16,41,Find Adjacency,LB,TRUE,22.581
+16,42,Find Adjacency,IT,TRUE,20.104
+16,43,Find Adjacency,CSA,TRUE,29.455
+16,44,Find Adjacency,All,FALSE,23.606
+16,45,Find Adjacency,None,TRUE,16.654
+16,46,Find Adjacency,LB,FALSE,23.732
+16,47,Find Adjacency,IT,TRUE,28.067
+16,48,Find Adjacency,CSA,TRUE,16.948
+16,49,Find Adjacency,All,FALSE,37.44
+16,50,Find Adjacency,None,TRUE,25.275
+16,51,Find Adjacency,LB,TRUE,55.062
+16,52,Find Adjacency,IT,FALSE,24.796
+16,53,Find Adjacency,CSA,TRUE,26.157
+16,54,Find Adjacency,All,TRUE,15.968
+16,55,Find Adjacency,None,TRUE,25.319
+17,1,Compare,LB,TRUE,20.067
+17,2,Compare,IT,TRUE,42.035
+17,3,Compare,CSA,TRUE,38.166
+17,4,Compare,All,TRUE,21.391
+17,5,Compare,None,TRUE,28.312
+17,6,Compare,LB,TRUE,21.843
+17,7,Compare,IT,TRUE,40.481
+17,8,Compare,CSA,TRUE,12.78
+17,9,Compare,All,TRUE,27.086
+17,10,Compare,None,TRUE,15.357
+17,11,Compare,LB,TRUE,30.134
+17,12,Compare,IT,TRUE,40.289
+17,13,Compare,CSA,TRUE,39.557
+17,14,Compare,All,TRUE,22.778
+17,15,Compare,None,TRUE,37.595
+17,16,Compare,LB,TRUE,30.451
+17,17,Compare,IT,TRUE,35.798
+17,18,Compare,CSA,TRUE,36.436
+17,19,Compare,All,TRUE,38.616
+17,20,Compare,None,TRUE,40.771
+17,21,Compare,LB,TRUE,22.118
+17,22,Compare,IT,TRUE,38.057
+17,23,Compare,CSA,TRUE,45.307
+17,24,Compare,All,TRUE,20.335
+17,25,Compare,None,FALSE,32.712
+17,26,Compare,LB,TRUE,44.324
+17,27,Compare,IT,TRUE,41.044
+17,28,Compare,CSA,TRUE,31.916
+17,29,Compare,All,TRUE,33.803
+17,30,Compare,None,TRUE,28.876
+17,31,Compare,LB,TRUE,16.257
+17,32,Compare,IT,TRUE,45.99
+17,33,Compare,CSA,TRUE,49.081
+17,34,Compare,All,TRUE,19.264
+17,35,Compare,None,TRUE,23.494
+17,36,Compare,LB,TRUE,17.868
+17,37,Compare,IT,TRUE,24.465
+17,38,Compare,CSA,TRUE,32.157
+17,39,Compare,All,TRUE,31.32
+17,40,Compare,None,TRUE,25.909
+17,41,Compare,LB,TRUE,33.221
+17,42,Compare,IT,TRUE,22.874
+17,43,Compare,CSA,TRUE,30.715
+17,44,Compare,All,TRUE,48.815
+17,45,Compare,None,TRUE,17.081
+17,46,Compare,LB,TRUE,20.919
+17,47,Compare,IT,TRUE,26.655
+17,48,Compare,CSA,TRUE,27.607
+17,49,Compare,All,TRUE,22.822
+17,50,Compare,None,TRUE,21.234
+17,51,Compare,LB,TRUE,23.216
+17,52,Compare,IT,TRUE,26.835
+17,53,Compare,CSA,TRUE,24.243
+17,54,Compare,All,TRUE,23.096
+17,55,Compare,None,TRUE,25.546
+18,1,Summarize,None,FALSE,76.289
+18,2,Summarize,LB,FALSE,84.925
+18,3,Summarize,IT,TRUE,80.794
+18,4,Summarize,CSA,TRUE,45.127
+18,5,Summarize,All,FALSE,48.479
+18,6,Summarize,None,FALSE,30.683
+18,7,Summarize,LB,FALSE,49.33
+18,8,Summarize,IT,FALSE,21.319
+18,9,Summarize,CSA,FALSE,50.448
+18,10,Summarize,All,FALSE,27.386
+18,11,Summarize,None,FALSE,29.57
+18,12,Summarize,LB,FALSE,53.708
+18,13,Summarize,IT,TRUE,69.215
+18,14,Summarize,CSA,TRUE,45.573
+18,15,Summarize,All,FALSE,77.011
+18,16,Summarize,None,FALSE,45.257
+18,17,Summarize,LB,TRUE,42.18
+18,18,Summarize,IT,FALSE,50.509
+18,19,Summarize,CSA,TRUE,46.491
+18,20,Summarize,All,FALSE,31.889
+18,21,Summarize,None,FALSE,42.007
+18,22,Summarize,LB,FALSE,28.664
+18,23,Summarize,IT,FALSE,21.395
+18,24,Summarize,CSA,FALSE,27.181
+18,25,Summarize,All,TRUE,66.438
+18,26,Summarize,None,TRUE,30.258
+18,27,Summarize,LB,FALSE,56.947
+18,28,Summarize,IT,FALSE,35.64
+18,29,Summarize,CSA,TRUE,26.802
+18,30,Summarize,All,FALSE,40.434
+18,31,Summarize,None,FALSE,42.065
+18,32,Summarize,LB,FALSE,29.653
+18,33,Summarize,IT,TRUE,126.744
+18,34,Summarize,CSA,TRUE,41.898
+18,35,Summarize,All,TRUE,42.544
+18,36,Summarize,None,FALSE,18.703
+18,37,Summarize,LB,FALSE,18.956
+18,38,Summarize,IT,FALSE,34.613
+18,39,Summarize,CSA,TRUE,28.263
+18,40,Summarize,All,FALSE,50.058
+18,41,Summarize,None,FALSE,47.722
+18,42,Summarize,LB,FALSE,22.138
+18,43,Summarize,IT,FALSE,90.475
+18,44,Summarize,CSA,TRUE,54.68
+18,45,Summarize,All,TRUE,44.768
+18,46,Summarize,None,FALSE,42.997
+18,47,Summarize,LB,FALSE,51.925
+18,48,Summarize,IT,FALSE,30.716
+18,49,Summarize,CSA,TRUE,24.061
+18,50,Summarize,All,TRUE,34.255
+18,51,Summarize,None,FALSE,27.307
+18,52,Summarize,LB,FALSE,42.784
+18,53,Summarize,IT,FALSE,76.731
+18,54,Summarize,CSA,TRUE,41.711
+18,55,Summarize,All,TRUE,61.812
+19,1,Recognize,All,TRUE,17.005
+19,2,Recognize,None,TRUE,14.194
+19,3,Recognize,LB,TRUE,10.705
+19,4,Recognize,IT,TRUE,8.063
+19,5,Recognize,CSA,TRUE,13.353
+19,6,Recognize,All,TRUE,9.651
+19,7,Recognize,None,TRUE,9.445
+19,8,Recognize,LB,TRUE,9.214
+19,9,Recognize,IT,TRUE,6.154
+19,10,Recognize,CSA,TRUE,9.071
+19,11,Recognize,All,TRUE,7.778
+19,12,Recognize,None,TRUE,14.87
+19,13,Recognize,LB,TRUE,17.305
+19,14,Recognize,IT,TRUE,6.716
+19,15,Recognize,CSA,TRUE,12.752
+19,16,Recognize,All,TRUE,12.359
+19,17,Recognize,None,TRUE,13.035
+19,18,Recognize,LB,TRUE,14.449
+19,19,Recognize,IT,TRUE,11.646
+19,20,Recognize,CSA,TRUE,8.595
+19,21,Recognize,All,TRUE,10.739
+19,22,Recognize,None,TRUE,10.029
+19,23,Recognize,LB,TRUE,21.975
+19,24,Recognize,IT,TRUE,7.495
+19,25,Recognize,CSA,TRUE,17.719
+19,26,Recognize,All,TRUE,8.966
+19,27,Recognize,None,TRUE,18.805
+19,28,Recognize,LB,TRUE,12.274
+19,29,Recognize,IT,TRUE,82.588
+19,30,Recognize,CSA,TRUE,9.193
+19,31,Recognize,All,TRUE,7.714
+19,32,Recognize,None,TRUE,19.806
+19,33,Recognize,LB,TRUE,15.358
+19,34,Recognize,IT,TRUE,8.709
+19,35,Recognize,CSA,TRUE,15.619
+19,36,Recognize,All,TRUE,8.587
+19,37,Recognize,None,TRUE,8.349
+19,38,Recognize,LB,TRUE,11.061
+19,39,Recognize,IT,TRUE,8.56
+19,40,Recognize,CSA,TRUE,9.593
+19,41,Recognize,All,TRUE,9.466
+19,42,Recognize,None,TRUE,8.019
+19,43,Recognize,LB,TRUE,9.676
+19,44,Recognize,IT,TRUE,12.48
+19,45,Recognize,CSA,TRUE,6.89
+19,46,Recognize,All,TRUE,17.318
+19,47,Recognize,None,TRUE,10.383
+19,48,Recognize,LB,TRUE,6.808
+19,49,Recognize,IT,TRUE,13.878
+19,50,Recognize,CSA,TRUE,8.678
+19,51,Recognize,All,TRUE,7.484
+19,52,Recognize,None,TRUE,9.553
+19,53,Recognize,LB,TRUE,12.838
+19,54,Recognize,IT,TRUE,9.484
+19,55,Recognize,CSA,TRUE,12.905
+20,1,Find Top,CSA,TRUE,25.512
+20,2,Find Top,All,TRUE,18.617
+20,3,Find Top,None,TRUE,9.933
+20,4,Find Top,LB,TRUE,30.454
+20,5,Find Top,IT,TRUE,12.399
+20,6,Find Top,CSA,TRUE,9.531
+20,7,Find Top,All,TRUE,19.943
+20,8,Find Top,None,TRUE,7.228
+20,9,Find Top,LB,TRUE,16.111
+20,10,Find Top,IT,TRUE,14.48
+20,11,Find Top,CSA,TRUE,5.79
+20,12,Find Top,All,TRUE,53.739
+20,13,Find Top,None,TRUE,16.946
+20,14,Find Top,LB,TRUE,11.369
+20,15,Find Top,IT,TRUE,35.312
+20,16,Find Top,CSA,TRUE,26.391
+20,17,Find Top,All,TRUE,18.49
+20,18,Find Top,None,TRUE,23.633
+20,19,Find Top,LB,TRUE,33.032
+20,20,Find Top,IT,TRUE,9.767
+20,21,Find Top,CSA,TRUE,7.275
+20,22,Find Top,All,TRUE,17.318
+20,23,Find Top,None,TRUE,8.693
+20,24,Find Top,LB,TRUE,19.941
+20,25,Find Top,IT,TRUE,34.487
+20,26,Find Top,CSA,TRUE,14.588
+20,27,Find Top,All,TRUE,46.822
+20,28,Find Top,None,TRUE,12.072
+20,29,Find Top,LB,TRUE,22.075
+20,30,Find Top,IT,TRUE,9.62
+20,31,Find Top,CSA,TRUE,45.785
+20,32,Find Top,All,TRUE,18.124
+20,33,Find Top,None,TRUE,38.608
+20,34,Find Top,LB,TRUE,15.017
+20,35,Find Top,IT,TRUE,7.641
+20,36,Find Top,CSA,TRUE,8.299
+20,37,Find Top,All,TRUE,10.643
+20,38,Find Top,None,TRUE,13.862
+20,39,Find Top,LB,TRUE,22.791
+20,40,Find Top,IT,TRUE,14.643
+20,41,Find Top,CSA,TRUE,12.715
+20,42,Find Top,All,TRUE,11.463
+20,43,Find Top,None,TRUE,6.365
+20,44,Find Top,LB,TRUE,25.517
+20,45,Find Top,IT,TRUE,28.018
+20,46,Find Top,CSA,TRUE,15.438
+20,47,Find Top,All,TRUE,34.633
+20,48,Find Top,None,TRUE,13.787
+20,49,Find Top,LB,TRUE,15.125
+20,50,Find Top,IT,TRUE,19.322
+20,51,Find Top,CSA,TRUE,7.381
+20,52,Find Top,All,TRUE,7.973
+20,53,Find Top,None,TRUE,12.425
+20,54,Find Top,LB,TRUE,12.246
+20,55,Find Top,IT,TRUE,20.086
+21,1,Cluster,IT,TRUE,39.355
+21,2,Cluster,CSA,TRUE,78.148
+21,3,Cluster,All,TRUE,62.377
+21,4,Cluster,None,TRUE,69.968
+21,5,Cluster,LB,TRUE,19.268
+21,6,Cluster,IT,TRUE,54.7
+21,7,Cluster,CSA,TRUE,44.071
+21,8,Cluster,All,TRUE,49.867
+21,9,Cluster,None,TRUE,28.503
+21,10,Cluster,LB,TRUE,107.586
+21,11,Cluster,IT,TRUE,34.513
+21,12,Cluster,CSA,TRUE,114.427
+21,13,Cluster,All,TRUE,51.077
+21,14,Cluster,None,TRUE,18.139
+21,15,Cluster,LB,TRUE,65.736
+21,16,Cluster,IT,TRUE,33.637
+21,17,Cluster,CSA,TRUE,94.383
+21,18,Cluster,All,TRUE,67.831
+21,19,Cluster,None,TRUE,66.388
+21,20,Cluster,LB,TRUE,67.427
+21,21,Cluster,IT,TRUE,25.092
+21,22,Cluster,CSA,TRUE,74.113
+21,23,Cluster,All,TRUE,75.706
+21,24,Cluster,None,TRUE,37.714
+21,25,Cluster,LB,TRUE,156.142
+21,26,Cluster,IT,TRUE,49.078
+21,27,Cluster,CSA,TRUE,50.261
+21,28,Cluster,All,TRUE,49.067
+21,29,Cluster,None,TRUE,12.535
+21,30,Cluster,LB,TRUE,49.747
+21,31,Cluster,IT,TRUE,54.651
+21,32,Cluster,CSA,TRUE,108.747
+21,33,Cluster,All,TRUE,76.051
+21,34,Cluster,None,TRUE,59.66
+21,35,Cluster,LB,TRUE,44.471
+21,36,Cluster,IT,TRUE,29.489
+21,37,Cluster,CSA,TRUE,31.31
+21,38,Cluster,All,TRUE,115.288
+21,39,Cluster,None,FALSE,51.492
+21,40,Cluster,LB,TRUE,104.329
+21,41,Cluster,IT,TRUE,20.967
+21,42,Cluster,CSA,TRUE,25.108
+21,43,Cluster,All,TRUE,24.024
+21,44,Cluster,None,FALSE,47.166
+21,45,Cluster,LB,TRUE,50.758
+21,46,Cluster,IT,TRUE,76.747
+21,47,Cluster,CSA,TRUE,77.636
+21,48,Cluster,All,TRUE,44.32
+21,49,Cluster,None,TRUE,99.376
+21,50,Cluster,LB,TRUE,51.248
+21,51,Cluster,IT,TRUE,47.02
+21,52,Cluster,CSA,FALSE,62.435
+21,53,Cluster,All,TRUE,65.479
+21,54,Cluster,None,TRUE,38.106
+21,55,Cluster,LB,TRUE,38.506
+22,1,Summarize,CSA,TRUE,42.86
+22,2,Summarize,All,TRUE,47.777
+22,3,Summarize,None,TRUE,28.135
+22,4,Summarize,LB,FALSE,28.373
+22,5,Summarize,IT,FALSE,23.932
+22,6,Summarize,CSA,TRUE,28.066
+22,7,Summarize,All,TRUE,30.029
+22,8,Summarize,None,FALSE,36.295
+22,9,Summarize,LB,FALSE,20.109
+22,10,Summarize,IT,FALSE,17.008
+22,11,Summarize,CSA,TRUE,22.568
+22,12,Summarize,All,TRUE,32.536
+22,13,Summarize,None,FALSE,50.402
+22,14,Summarize,LB,TRUE,18.176
+22,15,Summarize,IT,TRUE,52.211
+22,16,Summarize,CSA,FALSE,33.754
+22,17,Summarize,All,TRUE,29.393
+22,18,Summarize,None,TRUE,23.258
+22,19,Summarize,LB,FALSE,71.975
+22,20,Summarize,IT,FALSE,25.181
+22,21,Summarize,CSA,TRUE,35.488
+22,22,Summarize,All,FALSE,36.381
+22,23,Summarize,None,FALSE,18.512
+22,24,Summarize,LB,FALSE,23.006
+22,25,Summarize,IT,TRUE,33.59
+22,26,Summarize,CSA,TRUE,22.098
+22,27,Summarize,All,TRUE,26.75
+22,28,Summarize,None,FALSE,17.921
+22,29,Summarize,LB,TRUE,41.103
+22,30,Summarize,IT,FALSE,43.361
+22,31,Summarize,CSA,TRUE,27.153
+22,32,Summarize,All,TRUE,39.86
+22,33,Summarize,None,TRUE,41.704
+22,34,Summarize,LB,TRUE,30.417
+22,35,Summarize,IT,FALSE,31.494
+22,36,Summarize,CSA,FALSE,23.466
+22,37,Summarize,All,TRUE,23.839
+22,38,Summarize,None,TRUE,18.125
+22,39,Summarize,LB,TRUE,18.184
+22,40,Summarize,IT,TRUE,27.426
+22,41,Summarize,CSA,TRUE,29.109
+22,42,Summarize,All,FALSE,24.785
+22,43,Summarize,None,FALSE,47.764
+22,44,Summarize,LB,TRUE,37.48
+22,45,Summarize,IT,FALSE,23.276
+22,46,Summarize,CSA,FALSE,34.73
+22,47,Summarize,All,TRUE,27
+22,48,Summarize,None,TRUE,41.125
+22,49,Summarize,LB,FALSE,30.016
+22,50,Summarize,IT,FALSE,26.294
+22,51,Summarize,CSA,FALSE,24.918
+22,52,Summarize,All,TRUE,23.292
+22,53,Summarize,None,FALSE,90.303
+22,54,Summarize,LB,TRUE,16.891
+22,55,Summarize,IT,FALSE,49.556
+23,1,Find Adjacency,CSA,TRUE,18.499
+23,2,Find Adjacency,All,TRUE,15.136
+23,3,Find Adjacency,None,TRUE,16.689
+23,4,Find Adjacency,LB,TRUE,26.545
+23,5,Find Adjacency,IT,TRUE,17.448
+23,6,Find Adjacency,CSA,TRUE,23.498
+23,7,Find Adjacency,All,TRUE,20.355
+23,8,Find Adjacency,None,TRUE,26.328
+23,9,Find Adjacency,LB,TRUE,10.374
+23,10,Find Adjacency,IT,TRUE,23.459
+23,11,Find Adjacency,CSA,TRUE,10.135
+23,12,Find Adjacency,All,TRUE,20.264
+23,13,Find Adjacency,None,TRUE,35.648
+23,14,Find Adjacency,LB,TRUE,7.161
+23,15,Find Adjacency,IT,TRUE,32.893
+23,16,Find Adjacency,CSA,TRUE,22.116
+23,17,Find Adjacency,All,TRUE,11.095
+23,18,Find Adjacency,None,TRUE,16.663
+23,19,Find Adjacency,LB,TRUE,24.335
+23,20,Find Adjacency,IT,TRUE,10.661
+23,21,Find Adjacency,CSA,TRUE,12.207
+23,22,Find Adjacency,All,TRUE,20.698
+23,23,Find Adjacency,None,TRUE,14.904
+23,24,Find Adjacency,LB,TRUE,11.66
+23,25,Find Adjacency,IT,TRUE,19.014
+23,26,Find Adjacency,CSA,TRUE,15.25
+23,27,Find Adjacency,All,TRUE,15.101
+23,28,Find Adjacency,None,TRUE,16.943
+23,29,Find Adjacency,LB,TRUE,36.489
+23,30,Find Adjacency,IT,TRUE,14.866
+23,31,Find Adjacency,CSA,TRUE,25.646
+23,32,Find Adjacency,All,TRUE,30.343
+23,33,Find Adjacency,None,TRUE,30.893
+23,34,Find Adjacency,LB,TRUE,38.782
+23,35,Find Adjacency,IT,TRUE,22.64
+23,36,Find Adjacency,CSA,TRUE,21.659
+23,37,Find Adjacency,All,TRUE,16.575
+23,38,Find Adjacency,None,FALSE,109.158
+23,39,Find Adjacency,LB,TRUE,19.034
+23,40,Find Adjacency,IT,TRUE,28.787
+23,41,Find Adjacency,CSA,TRUE,15.392
+23,42,Find Adjacency,All,TRUE,21.846
+23,43,Find Adjacency,None,TRUE,23.764
+23,44,Find Adjacency,LB,TRUE,31.22
+23,45,Find Adjacency,IT,TRUE,22.786
+23,46,Find Adjacency,CSA,TRUE,17.168
+23,47,Find Adjacency,All,TRUE,18.013
+23,48,Find Adjacency,None,TRUE,25.418
+23,49,Find Adjacency,LB,TRUE,21.44
+23,50,Find Adjacency,IT,TRUE,11.19
+23,51,Find Adjacency,CSA,TRUE,23.045
+23,52,Find Adjacency,All,TRUE,16.877
+23,53,Find Adjacency,None,TRUE,9.533
+23,54,Find Adjacency,LB,TRUE,29.71
+23,55,Find Adjacency,IT,TRUE,37.808
+24,1,Recognize,LB,TRUE,8.341
+24,2,Recognize,IT,TRUE,19.483
+24,3,Recognize,CSA,TRUE,21.799
+24,4,Recognize,All,TRUE,9.799
+24,5,Recognize,None,TRUE,10.92
+24,6,Recognize,LB,TRUE,11.383
+24,7,Recognize,IT,TRUE,9.579
+24,8,Recognize,CSA,TRUE,8.632
+24,9,Recognize,All,TRUE,12.156
+24,10,Recognize,None,TRUE,9.259
+24,11,Recognize,LB,TRUE,8.483
+24,12,Recognize,IT,TRUE,17.858
+24,13,Recognize,CSA,TRUE,9.874
+24,14,Recognize,All,TRUE,6.947
+24,15,Recognize,None,TRUE,12.935
+24,16,Recognize,LB,TRUE,16.608
+24,17,Recognize,IT,TRUE,5.759
+24,18,Recognize,CSA,TRUE,17.274
+24,19,Recognize,All,TRUE,12.302
+24,20,Recognize,None,TRUE,20.847
+24,21,Recognize,LB,TRUE,6.592
+24,22,Recognize,IT,TRUE,12.461
+24,23,Recognize,CSA,TRUE,11.404
+24,24,Recognize,All,TRUE,5.647
+24,25,Recognize,None,TRUE,12.688
+24,26,Recognize,LB,TRUE,7.575
+24,27,Recognize,IT,TRUE,7.356
+24,28,Recognize,CSA,TRUE,16.54
+24,29,Recognize,All,TRUE,8.916
+24,30,Recognize,None,TRUE,17.218
+24,31,Recognize,LB,TRUE,9.604
+24,32,Recognize,IT,TRUE,6.639
+24,33,Recognize,CSA,TRUE,20.463
+24,34,Recognize,All,TRUE,14.328
+24,35,Recognize,None,TRUE,32.419
+24,36,Recognize,LB,TRUE,5.417
+24,37,Recognize,IT,TRUE,4.563
+24,38,Recognize,CSA,TRUE,11.974
+24,39,Recognize,All,TRUE,10.076
+24,40,Recognize,None,TRUE,10.54
+24,41,Recognize,LB,TRUE,17.37
+24,42,Recognize,IT,TRUE,4.818
+24,43,Recognize,CSA,TRUE,5.757
+24,44,Recognize,All,TRUE,14.742
+24,45,Recognize,None,TRUE,10.644
+24,46,Recognize,LB,TRUE,16.6
+24,47,Recognize,IT,TRUE,7.379
+24,48,Recognize,CSA,TRUE,14.429
+24,49,Recognize,All,TRUE,6.949
+24,50,Recognize,None,TRUE,17.444
+24,51,Recognize,LB,TRUE,8.173
+24,52,Recognize,IT,TRUE,6.483
+24,53,Recognize,CSA,TRUE,18.232
+24,54,Recognize,All,TRUE,7.916
+24,55,Recognize,None,TRUE,14.579
+25,1,Summarize,All,TRUE,39.194
+25,2,Summarize,None,FALSE,58.611
+25,3,Summarize,LB,TRUE,31.412
+25,4,Summarize,IT,TRUE,21.052
+25,5,Summarize,CSA,TRUE,40.943
+25,6,Summarize,All,TRUE,24.086
+25,7,Summarize,None,TRUE,17.275
+25,8,Summarize,LB,FALSE,15.007
+25,9,Summarize,IT,FALSE,46.058
+25,10,Summarize,CSA,TRUE,33.421
+25,11,Summarize,All,TRUE,25.812
+25,12,Summarize,None,TRUE,24.565
+25,13,Summarize,LB,TRUE,60.476
+25,14,Summarize,IT,FALSE,13.032
+25,15,Summarize,CSA,TRUE,19.826
+25,16,Summarize,All,TRUE,36.808
+25,17,Summarize,None,FALSE,37.699
+25,18,Summarize,LB,TRUE,52.233
+25,19,Summarize,IT,TRUE,33.878
+25,20,Summarize,CSA,TRUE,24.194
+25,21,Summarize,All,FALSE,15.7
+25,22,Summarize,None,FALSE,30.935
+25,23,Summarize,LB,FALSE,19.906
+25,24,Summarize,IT,FALSE,17.854
+25,25,Summarize,CSA,TRUE,64.144
+25,26,Summarize,All,TRUE,44.245
+25,27,Summarize,None,FALSE,19.376
+25,28,Summarize,LB,TRUE,45.253
+25,29,Summarize,IT,TRUE,18.697
+25,30,Summarize,CSA,TRUE,26.38
+25,31,Summarize,All,TRUE,28.63
+25,32,Summarize,None,TRUE,33.567
+25,33,Summarize,LB,TRUE,56.009
+25,34,Summarize,IT,TRUE,22.303
+25,35,Summarize,CSA,FALSE,26.791
+25,36,Summarize,All,TRUE,18.685
+25,37,Summarize,None,FALSE,22.914
+25,38,Summarize,LB,TRUE,13.931
+25,39,Summarize,IT,FALSE,23.404
+25,40,Summarize,CSA,TRUE,30.296
+25,41,Summarize,All,TRUE,31.844
+25,42,Summarize,None,FALSE,9.065
+25,43,Summarize,LB,TRUE,28.514
+25,44,Summarize,IT,FALSE,67.277
+25,45,Summarize,CSA,TRUE,39.094
+25,46,Summarize,All,TRUE,21.766
+25,47,Summarize,None,FALSE,26.374
+25,48,Summarize,LB,FALSE,20.057
+25,49,Summarize,IT,FALSE,24.973
+25,50,Summarize,CSA,TRUE,28.628
+25,51,Summarize,All,TRUE,22.64
+25,52,Summarize,None,TRUE,35.327
+25,53,Summarize,LB,FALSE,19.003
+25,54,Summarize,IT,FALSE,14.026
+25,55,Summarize,CSA,FALSE,37.344
+26,1,Recognize,CSA,TRUE,15.828
+26,2,Recognize,All,TRUE,12.131
+26,3,Recognize,None,TRUE,11.443
+26,4,Recognize,LB,TRUE,7.422
+26,5,Recognize,IT,TRUE,16.623
+26,6,Recognize,CSA,TRUE,9.485
+26,7,Recognize,All,TRUE,7.932
+26,8,Recognize,None,TRUE,4.756
+26,9,Recognize,LB,TRUE,9.525
+26,10,Recognize,IT,TRUE,5.02
+26,11,Recognize,CSA,TRUE,4.353
+26,12,Recognize,All,TRUE,23.311
+26,13,Recognize,None,TRUE,8.796
+26,14,Recognize,LB,TRUE,9.871
+26,15,Recognize,IT,TRUE,5.589
+26,16,Recognize,CSA,TRUE,10.818
+26,17,Recognize,All,TRUE,12.002
+26,18,Recognize,None,TRUE,9.432
+26,19,Recognize,LB,TRUE,9.373
+26,20,Recognize,IT,TRUE,9.458
+26,21,Recognize,CSA,TRUE,5.169
+26,22,Recognize,All,TRUE,10.555
+26,23,Recognize,None,TRUE,24.223
+26,24,Recognize,LB,TRUE,9.083
+26,25,Recognize,IT,TRUE,9.078
+26,26,Recognize,CSA,TRUE,10.366
+26,27,Recognize,All,TRUE,8.618
+26,28,Recognize,None,TRUE,11.834
+26,29,Recognize,LB,TRUE,5.675
+26,30,Recognize,IT,TRUE,13.505
+26,31,Recognize,CSA,TRUE,9.945
+26,32,Recognize,All,TRUE,8.111
+26,33,Recognize,None,TRUE,11.385
+26,34,Recognize,LB,TRUE,8.137
+26,35,Recognize,IT,TRUE,9.078
+26,36,Recognize,CSA,TRUE,7.346
+26,37,Recognize,All,TRUE,4.219
+26,38,Recognize,None,TRUE,9.438
+26,39,Recognize,LB,TRUE,7.784
+26,40,Recognize,IT,TRUE,8.321
+26,41,Recognize,CSA,TRUE,10.425
+26,42,Recognize,All,TRUE,5.186
+26,43,Recognize,None,TRUE,11.397
+26,44,Recognize,LB,TRUE,15.457
+26,45,Recognize,IT,TRUE,8.553
+26,46,Recognize,CSA,TRUE,9.05
+26,47,Recognize,All,TRUE,7.307
+26,48,Recognize,None,TRUE,5.533
+26,49,Recognize,LB,TRUE,10.598
+26,50,Recognize,IT,TRUE,7.515
+26,51,Recognize,CSA,TRUE,7.893
+26,52,Recognize,All,TRUE,7.261
+26,53,Recognize,None,TRUE,17.555
+26,54,Recognize,LB,TRUE,7.37
+26,55,Recognize,IT,TRUE,7.092
+27,1,Find Top,IT,TRUE,39.967
+27,2,Find Top,CSA,TRUE,55.778
+27,3,Find Top,All,TRUE,22.515
+27,4,Find Top,None,FALSE,52.052
+27,5,Find Top,LB,TRUE,15.399
+27,6,Find Top,IT,TRUE,56.865
+27,7,Find Top,CSA,TRUE,21.808
+27,8,Find Top,All,TRUE,43.701
+27,9,Find Top,None,TRUE,29.111
+27,10,Find Top,LB,TRUE,24.359
+27,11,Find Top,IT,TRUE,14.856
+27,12,Find Top,CSA,FALSE,42.44
+27,13,Find Top,All,TRUE,59.455
+27,14,Find Top,None,TRUE,20.306
+27,15,Find Top,LB,TRUE,24.367
+27,16,Find Top,IT,TRUE,46.744
+27,17,Find Top,CSA,TRUE,58.507
+27,18,Find Top,All,FALSE,47.188
+27,19,Find Top,None,TRUE,37.408
+27,20,Find Top,LB,TRUE,53.289
+27,21,Find Top,IT,TRUE,27.831
+27,22,Find Top,CSA,TRUE,48.03
+27,23,Find Top,All,TRUE,16.736
+27,24,Find Top,None,TRUE,11.035
+27,25,Find Top,LB,TRUE,85.64
+27,26,Find Top,IT,TRUE,20.514
+27,27,Find Top,CSA,TRUE,52.676
+27,28,Find Top,All,TRUE,33.87
+27,29,Find Top,None,TRUE,26.056
+27,30,Find Top,LB,TRUE,77.308
+27,31,Find Top,IT,FALSE,31.39
+27,32,Find Top,CSA,TRUE,32.204
+27,33,Find Top,All,TRUE,121.406
+27,34,Find Top,None,FALSE,19.89
+27,35,Find Top,LB,TRUE,67.758
+27,36,Find Top,IT,TRUE,18.643
+27,37,Find Top,CSA,TRUE,38.114
+27,38,Find Top,All,TRUE,27.688
+27,39,Find Top,None,TRUE,45.949
+27,40,Find Top,LB,TRUE,13.177
+27,41,Find Top,IT,TRUE,14.357
+27,42,Find Top,CSA,TRUE,19.026
+27,43,Find Top,All,TRUE,25.254
+27,44,Find Top,None,TRUE,33.4
+27,45,Find Top,LB,TRUE,58.317
+27,46,Find Top,IT,TRUE,57.833
+27,47,Find Top,CSA,TRUE,31.048
+27,48,Find Top,All,TRUE,83.737
+27,49,Find Top,None,FALSE,31.271
+27,50,Find Top,LB,TRUE,44.35
+27,51,Find Top,IT,TRUE,33.931
+27,52,Find Top,CSA,TRUE,43.476
+27,53,Find Top,All,TRUE,9.416
+27,54,Find Top,None,TRUE,21.179
+27,55,Find Top,LB,TRUE,33.615
+28,1,Detect Change,IT,TRUE,31.885
+28,2,Detect Change,CSA,TRUE,29.258
+28,3,Detect Change,All,FALSE,16.22
+28,4,Detect Change,None,FALSE,25.746
+28,5,Detect Change,LB,FALSE,19.747
+28,6,Detect Change,IT,TRUE,24.906
+28,7,Detect Change,CSA,TRUE,15.37
+28,8,Detect Change,All,TRUE,18.012
+28,9,Detect Change,None,TRUE,22.869
+28,10,Detect Change,LB,FALSE,13.355
+28,11,Detect Change,IT,FALSE,16.047
+28,12,Detect Change,CSA,TRUE,22.924
+28,13,Detect Change,All,TRUE,27.039
+28,14,Detect Change,None,FALSE,17.437
+28,15,Detect Change,LB,TRUE,21.393
+28,16,Detect Change,IT,TRUE,35.454
+28,17,Detect Change,CSA,TRUE,30.17
+28,18,Detect Change,All,TRUE,28.045
+28,19,Detect Change,None,TRUE,15.687
+28,20,Detect Change,LB,TRUE,17.942
+28,21,Detect Change,IT,TRUE,13.06
+28,22,Detect Change,CSA,TRUE,26.045
+28,23,Detect Change,All,TRUE,13.654
+28,24,Detect Change,None,TRUE,14.671
+28,25,Detect Change,LB,TRUE,19.872
+28,26,Detect Change,IT,TRUE,11.469
+28,27,Detect Change,CSA,TRUE,16.317
+28,28,Detect Change,All,TRUE,24.086
+28,29,Detect Change,None,TRUE,15.132
+28,30,Detect Change,LB,FALSE,12.579
+28,31,Detect Change,IT,TRUE,17.641
+28,32,Detect Change,CSA,TRUE,21.219
+28,33,Detect Change,All,TRUE,47.49
+28,34,Detect Change,None,TRUE,30.714
+28,35,Detect Change,LB,TRUE,20.792
+28,36,Detect Change,IT,FALSE,8.138
+28,37,Detect Change,CSA,TRUE,11.148
+28,38,Detect Change,All,TRUE,20.57
+28,39,Detect Change,None,TRUE,29.407
+28,40,Detect Change,LB,TRUE,29.568
+28,41,Detect Change,IT,TRUE,36.448
+28,42,Detect Change,CSA,TRUE,30.102
+28,43,Detect Change,All,TRUE,9.773
+28,44,Detect Change,None,TRUE,37.184
+28,45,Detect Change,LB,TRUE,10.568
+28,46,Detect Change,IT,TRUE,24.13
+28,47,Detect Change,CSA,TRUE,17.817
+28,48,Detect Change,All,FALSE,12.168
+28,49,Detect Change,None,TRUE,14.947
+28,50,Detect Change,LB,TRUE,19.382
+28,51,Detect Change,IT,TRUE,19.735
+28,52,Detect Change,CSA,TRUE,19.592
+28,53,Detect Change,All,TRUE,36.53
+28,54,Detect Change,None,TRUE,29.062
+28,55,Detect Change,LB,TRUE,28.372
+29,1,Cluster,None,TRUE,41.333
+29,2,Cluster,LB,TRUE,64.567
+29,3,Cluster,IT,TRUE,45.062
+29,4,Cluster,CSA,TRUE,39.697
+29,5,Cluster,All,TRUE,21.034
+29,6,Cluster,None,TRUE,51.947
+29,7,Cluster,LB,FALSE,24.149
+29,8,Cluster,IT,TRUE,36.423
+29,9,Cluster,CSA,FALSE,44.367
+29,10,Cluster,All,TRUE,23.132
+29,11,Cluster,None,TRUE,40.393
+29,12,Cluster,LB,FALSE,68.575
+29,13,Cluster,IT,TRUE,50.879
+29,14,Cluster,CSA,TRUE,44.706
+29,15,Cluster,All,TRUE,43.95
+29,16,Cluster,None,TRUE,38.908
+29,17,Cluster,LB,TRUE,63.905
+29,18,Cluster,IT,TRUE,59.507
+29,19,Cluster,CSA,FALSE,50.846
+29,20,Cluster,All,TRUE,44.984
+29,21,Cluster,None,TRUE,16.88
+29,22,Cluster,LB,TRUE,68.631
+29,23,Cluster,IT,TRUE,35.425
+29,24,Cluster,CSA,FALSE,22.186
+29,25,Cluster,All,TRUE,100.808
+29,26,Cluster,None,TRUE,42.163
+29,27,Cluster,LB,TRUE,50.27
+29,28,Cluster,IT,TRUE,54.401
+29,29,Cluster,CSA,TRUE,45.983
+29,30,Cluster,All,TRUE,103.605
+29,31,Cluster,None,TRUE,32.263
+29,32,Cluster,LB,TRUE,85.468
+29,33,Cluster,IT,TRUE,71.156
+29,34,Cluster,CSA,TRUE,32.935
+29,35,Cluster,All,TRUE,59.698
+29,36,Cluster,None,TRUE,42.758
+29,37,Cluster,LB,TRUE,62.038
+29,38,Cluster,IT,TRUE,44.399
+29,39,Cluster,CSA,FALSE,32.461
+29,40,Cluster,All,TRUE,23.105
+29,41,Cluster,None,TRUE,53.265
+29,42,Cluster,LB,TRUE,19.675
+29,43,Cluster,IT,TRUE,49.92
+29,44,Cluster,CSA,FALSE,41.619
+29,45,Cluster,All,TRUE,35.825
+29,46,Cluster,None,TRUE,42.989
+29,47,Cluster,LB,TRUE,68.744
+29,48,Cluster,IT,TRUE,43.619
+29,49,Cluster,CSA,TRUE,47.13
+29,50,Cluster,All,TRUE,40.92
+29,51,Cluster,None,TRUE,29.788
+29,52,Cluster,LB,TRUE,49.547
+29,53,Cluster,IT,TRUE,60.777
+29,54,Cluster,CSA,TRUE,16.978
+29,55,Cluster,All,TRUE,41.014
+30,1,Compare,All,TRUE,24.909
+30,2,Compare,None,TRUE,42.949
+30,3,Compare,LB,TRUE,26.323
+30,4,Compare,IT,TRUE,26.503
+30,5,Compare,CSA,FALSE,50.062
+30,6,Compare,All,TRUE,28.298
+30,7,Compare,None,TRUE,24.569
+30,8,Compare,LB,FALSE,22.192
+30,9,Compare,IT,TRUE,24.206
+30,10,Compare,CSA,TRUE,18.599
+30,11,Compare,All,TRUE,25.221
+30,12,Compare,None,TRUE,26.855
+30,13,Compare,LB,TRUE,24.343
+30,14,Compare,IT,TRUE,25.891
+30,15,Compare,CSA,TRUE,27.554
+30,16,Compare,All,TRUE,35.084
+30,17,Compare,None,TRUE,42.432
+30,18,Compare,LB,TRUE,35.361
+30,19,Compare,IT,TRUE,28.86
+30,20,Compare,CSA,FALSE,34.328
+30,21,Compare,All,TRUE,24.96
+30,22,Compare,None,TRUE,40.907
+30,23,Compare,LB,TRUE,28.291
+30,24,Compare,IT,TRUE,50.902
+30,25,Compare,CSA,TRUE,73.751
+30,26,Compare,All,TRUE,30.608
+30,27,Compare,None,TRUE,32.487
+30,28,Compare,LB,TRUE,21.299
+30,29,Compare,IT,TRUE,37.339
+30,30,Compare,CSA,TRUE,37.785
+30,31,Compare,All,TRUE,20.881
+30,32,Compare,None,TRUE,44.913
+30,33,Compare,LB,TRUE,39.644
+30,34,Compare,IT,TRUE,31.155
+30,35,Compare,CSA,TRUE,43.44
+30,36,Compare,All,TRUE,14.908
+30,37,Compare,None,TRUE,27.136
+30,38,Compare,LB,FALSE,28.824
+30,39,Compare,IT,TRUE,40.338
+30,40,Compare,CSA,TRUE,38.73
+30,41,Compare,All,TRUE,33.775
+30,42,Compare,None,TRUE,19.413
+30,43,Compare,LB,FALSE,39.347
+30,44,Compare,IT,TRUE,26.76
+30,45,Compare,CSA,TRUE,28.832
+30,46,Compare,All,TRUE,83.474
+30,47,Compare,None,TRUE,19.845
+30,48,Compare,LB,TRUE,26.856
+30,49,Compare,IT,TRUE,44.456
+30,50,Compare,CSA,TRUE,26.844
+30,51,Compare,All,TRUE,28.315
+30,52,Compare,None,TRUE,43.908
+30,53,Compare,LB,TRUE,46.835
+30,54,Compare,IT,TRUE,46.065
+30,55,Compare,CSA,TRUE,22.191
+31,1,Filter,None,FALSE,23.038
+31,2,Filter,LB,TRUE,49.448
+31,3,Filter,IT,TRUE,55.919
+31,4,Filter,CSA,TRUE,36.208
+31,5,Filter,All,TRUE,47.442
+31,6,Filter,None,FALSE,62.111
+31,7,Filter,LB,TRUE,37.74
+31,8,Filter,IT,TRUE,35.783
+31,9,Filter,CSA,TRUE,24.253
+31,10,Filter,All,TRUE,107.001
+31,11,Filter,None,TRUE,35.437
+31,12,Filter,LB,TRUE,48.247
+31,13,Filter,IT,TRUE,44.839
+31,14,Filter,CSA,TRUE,35.146
+31,15,Filter,All,TRUE,49.979
+31,16,Filter,None,TRUE,38.396
+31,17,Filter,LB,TRUE,38.965
+31,18,Filter,IT,TRUE,77.885
+31,19,Filter,CSA,TRUE,33.278
+31,20,Filter,All,TRUE,51.182
+31,21,Filter,None,TRUE,14.489
+31,22,Filter,LB,TRUE,83.634
+31,23,Filter,IT,TRUE,90.307
+31,24,Filter,CSA,FALSE,15.794
+31,25,Filter,All,TRUE,39.793
+31,26,Filter,None,TRUE,73.544
+31,27,Filter,LB,TRUE,24.116
+31,28,Filter,IT,FALSE,40.504
+31,29,Filter,CSA,TRUE,17.312
+31,30,Filter,All,TRUE,23.209
+31,31,Filter,None,TRUE,44.81
+31,32,Filter,LB,TRUE,62.646
+31,33,Filter,IT,TRUE,50.827
+31,34,Filter,CSA,TRUE,47.041
+31,35,Filter,All,TRUE,33.517
+31,36,Filter,None,TRUE,28.499
+31,37,Filter,LB,FALSE,14.082
+31,38,Filter,IT,TRUE,42.735
+31,39,Filter,CSA,FALSE,21.935
+31,40,Filter,All,TRUE,29.804
+31,41,Filter,None,TRUE,88.948
+31,42,Filter,LB,TRUE,30.083
+31,43,Filter,IT,TRUE,18.066
+31,44,Filter,CSA,FALSE,63.856
+31,45,Filter,All,TRUE,20.62
+31,46,Filter,None,TRUE,36.417
+31,47,Filter,LB,FALSE,52.357
+31,48,Filter,IT,TRUE,14.587
+31,49,Filter,CSA,TRUE,50.351
+31,50,Filter,All,TRUE,54.774
+31,51,Filter,None,TRUE,55.127
+31,52,Filter,LB,FALSE,30.888
+31,53,Filter,IT,TRUE,62.847
+31,54,Filter,CSA,TRUE,21.462
+31,55,Filter,All,TRUE,42.238
+32,1,Detect Change,LB,TRUE,16.212
+32,2,Detect Change,IT,TRUE,71.451
+32,3,Detect Change,CSA,TRUE,21.604
+32,4,Detect Change,All,TRUE,24.774
+32,5,Detect Change,None,TRUE,26.268
+32,6,Detect Change,LB,TRUE,17.639
+32,7,Detect Change,IT,TRUE,24.932
+32,8,Detect Change,CSA,TRUE,19.369
+32,9,Detect Change,All,TRUE,21.454
+32,10,Detect Change,None,TRUE,18.188
+32,11,Detect Change,LB,TRUE,23.954
+32,12,Detect Change,IT,TRUE,51.485
+32,13,Detect Change,CSA,TRUE,28.025
+32,14,Detect Change,All,TRUE,11.982
+32,15,Detect Change,None,TRUE,15.862
+32,16,Detect Change,LB,TRUE,15.626
+32,17,Detect Change,IT,TRUE,32.628
+32,18,Detect Change,CSA,TRUE,27
+32,19,Detect Change,All,TRUE,34.681
+32,20,Detect Change,None,TRUE,19.216
+32,21,Detect Change,LB,TRUE,10.906
+32,22,Detect Change,IT,TRUE,41.637
+32,23,Detect Change,CSA,TRUE,17.75
+32,24,Detect Change,All,TRUE,18.943
+32,25,Detect Change,None,TRUE,34.353
+32,26,Detect Change,LB,TRUE,14.188
+32,27,Detect Change,IT,TRUE,19.48
+32,28,Detect Change,CSA,TRUE,30.553
+32,29,Detect Change,All,TRUE,30.666
+32,30,Detect Change,None,TRUE,41.4
+32,31,Detect Change,LB,TRUE,17.198
+32,32,Detect Change,IT,TRUE,40.34
+32,33,Detect Change,CSA,TRUE,23.97
+32,34,Detect Change,All,TRUE,22.604
+32,35,Detect Change,None,TRUE,12.511
+32,36,Detect Change,LB,TRUE,21.35
+32,37,Detect Change,IT,TRUE,20.152
+32,38,Detect Change,CSA,TRUE,19.42
+32,39,Detect Change,All,TRUE,16.082
+32,40,Detect Change,None,TRUE,21.389
+32,41,Detect Change,LB,TRUE,23.654
+32,42,Detect Change,IT,TRUE,37.933
+32,43,Detect Change,CSA,TRUE,20.749
+32,44,Detect Change,All,TRUE,37.466
+32,45,Detect Change,None,TRUE,22.097
+32,46,Detect Change,LB,TRUE,25.229
+32,47,Detect Change,IT,TRUE,27.076
+32,48,Detect Change,CSA,TRUE,43.179
+32,49,Detect Change,All,TRUE,34.835
+32,50,Detect Change,None,TRUE,17.697
+32,51,Detect Change,LB,TRUE,16.803
+32,52,Detect Change,IT,TRUE,19.613
+32,53,Detect Change,CSA,TRUE,17.023
+32,54,Detect Change,All,TRUE,19.658
+32,55,Detect Change,None,TRUE,24.774
+33,1,Find Top,None,TRUE,32.083
+33,2,Find Top,LB,TRUE,41.333
+33,3,Find Top,IT,TRUE,20.282
+33,4,Find Top,CSA,TRUE,10.043
+33,5,Find Top,All,TRUE,11.264
+33,6,Find Top,None,TRUE,49.952
+33,7,Find Top,LB,TRUE,13.789
+33,8,Find Top,IT,TRUE,6.946
+33,9,Find Top,CSA,TRUE,6.827
+33,10,Find Top,All,TRUE,8.585
+33,11,Find Top,None,TRUE,8.354
+33,12,Find Top,LB,TRUE,33.235
+33,13,Find Top,IT,TRUE,36.639
+33,14,Find Top,CSA,TRUE,7.874
+33,15,Find Top,All,TRUE,41.302
+33,16,Find Top,None,TRUE,12.083
+33,17,Find Top,LB,TRUE,14.555
+33,18,Find Top,IT,TRUE,16.833
+33,19,Find Top,CSA,TRUE,35.263
+33,20,Find Top,All,TRUE,62.062
+33,21,Find Top,None,TRUE,7.72
+33,22,Find Top,LB,TRUE,7.581
+33,23,Find Top,IT,TRUE,8.847
+33,24,Find Top,CSA,TRUE,17.85
+33,25,Find Top,All,TRUE,36.312
+33,26,Find Top,None,TRUE,5.439
+33,27,Find Top,LB,TRUE,46.987
+33,28,Find Top,IT,TRUE,19.699
+33,29,Find Top,CSA,TRUE,11.636
+33,30,Find Top,All,TRUE,25.611
+33,31,Find Top,None,TRUE,16.402
+33,32,Find Top,LB,TRUE,17.379
+33,33,Find Top,IT,TRUE,50.033
+33,34,Find Top,CSA,TRUE,11.488
+33,35,Find Top,All,TRUE,10.931
+33,36,Find Top,None,TRUE,5.569
+33,37,Find Top,LB,TRUE,10.268
+33,38,Find Top,IT,TRUE,18.335
+33,39,Find Top,CSA,TRUE,54.243
+33,40,Find Top,All,TRUE,18.372
+33,41,Find Top,None,TRUE,22.426
+33,42,Find Top,LB,TRUE,9.087
+33,43,Find Top,IT,TRUE,23.468
+33,44,Find Top,CSA,TRUE,68.698
+33,45,Find Top,All,TRUE,38.307
+33,46,Find Top,None,TRUE,9.612
+33,47,Find Top,LB,TRUE,14.223
+33,48,Find Top,IT,TRUE,7.344
+33,49,Find Top,CSA,TRUE,8.918
+33,50,Find Top,All,TRUE,19.459
+33,51,Find Top,None,TRUE,11.031
+33,52,Find Top,LB,TRUE,27.958
+33,53,Find Top,IT,TRUE,13.237
+33,54,Find Top,CSA,TRUE,7.527
+33,55,Find Top,All,TRUE,17.29
+34,1,Summarize,LB,TRUE,42.126
+34,2,Summarize,IT,FALSE,47.751
+34,3,Summarize,CSA,TRUE,33.869
+34,4,Summarize,All,TRUE,28.344
+34,5,Summarize,None,FALSE,34.728
+34,6,Summarize,LB,FALSE,13.583
+34,7,Summarize,IT,FALSE,28.736
+34,8,Summarize,CSA,TRUE,20.968
+34,9,Summarize,All,FALSE,38.378
+34,10,Summarize,None,FALSE,15.014
+34,11,Summarize,LB,FALSE,23.094
+34,12,Summarize,IT,TRUE,21.474
+34,13,Summarize,CSA,TRUE,32.849
+34,14,Summarize,All,TRUE,32.07
+34,15,Summarize,None,FALSE,34.976
+34,16,Summarize,LB,FALSE,45.283
+34,17,Summarize,IT,TRUE,34.238
+34,18,Summarize,CSA,TRUE,21.58
+34,19,Summarize,All,TRUE,27.325
+34,20,Summarize,None,FALSE,27.382
+34,21,Summarize,LB,FALSE,27.361
+34,22,Summarize,IT,FALSE,25.354
+34,23,Summarize,CSA,FALSE,23.892
+34,24,Summarize,All,TRUE,17.776
+34,25,Summarize,None,TRUE,32.381
+34,26,Summarize,LB,FALSE,50.711
+34,27,Summarize,IT,TRUE,21.737
+34,28,Summarize,CSA,TRUE,63.809
+34,29,Summarize,All,FALSE,25.508
+34,30,Summarize,None,FALSE,33.938
+34,31,Summarize,LB,TRUE,31.254
+34,32,Summarize,IT,FALSE,42.917
+34,33,Summarize,CSA,TRUE,45.243
+34,34,Summarize,All,FALSE,19.709
+34,35,Summarize,None,TRUE,23.431
+34,36,Summarize,LB,FALSE,11.856
+34,37,Summarize,IT,FALSE,12.496
+34,38,Summarize,CSA,TRUE,37.951
+34,39,Summarize,All,FALSE,27.531
+34,40,Summarize,None,FALSE,20.987
+34,41,Summarize,LB,FALSE,17.196
+34,42,Summarize,IT,FALSE,8.986
+34,43,Summarize,CSA,FALSE,35.336
+34,44,Summarize,All,FALSE,68.6
+34,45,Summarize,None,TRUE,27.12
+34,46,Summarize,LB,FALSE,64.998
+34,47,Summarize,IT,FALSE,69.976
+34,48,Summarize,CSA,TRUE,29.802
+34,49,Summarize,All,TRUE,22.704
+34,50,Summarize,None,FALSE,29.624
+34,51,Summarize,LB,FALSE,23.398
+34,52,Summarize,IT,FALSE,46.716
+34,53,Summarize,CSA,FALSE,27.84
+34,54,Summarize,All,FALSE,23.473
+34,55,Summarize,None,FALSE,14.788
+35,1,Filter,IT,TRUE,62.151
+35,2,Filter,CSA,TRUE,34.047
+35,3,Filter,All,TRUE,80.172
+35,4,Filter,None,FALSE,53.663
+35,5,Filter,LB,TRUE,78.557
+35,6,Filter,IT,TRUE,61.438
+35,7,Filter,CSA,TRUE,60.481
+35,8,Filter,All,TRUE,63.271
+35,9,Filter,None,TRUE,42.912
+35,10,Filter,LB,TRUE,37.946
+35,11,Filter,IT,FALSE,39.495
+35,12,Filter,CSA,TRUE,112.376
+35,13,Filter,All,TRUE,53.796
+35,14,Filter,None,TRUE,37.838
+35,15,Filter,LB,TRUE,32.298
+35,16,Filter,IT,TRUE,43.602
+35,17,Filter,CSA,TRUE,52.939
+35,18,Filter,All,TRUE,83.572
+35,19,Filter,None,TRUE,50.891
+35,20,Filter,LB,TRUE,28.049
+35,21,Filter,IT,TRUE,23.867
+35,22,Filter,CSA,TRUE,58.474
+35,23,Filter,All,TRUE,41.884
+35,24,Filter,None,TRUE,41.158
+35,25,Filter,LB,TRUE,30.241
+35,26,Filter,IT,TRUE,47.427
+35,27,Filter,CSA,TRUE,54.082
+35,28,Filter,All,TRUE,27.254
+35,29,Filter,None,TRUE,37.966
+35,30,Filter,LB,TRUE,33.652
+35,31,Filter,IT,TRUE,37.341
+35,32,Filter,CSA,FALSE,40.794
+35,33,Filter,All,TRUE,68.873
+35,34,Filter,None,TRUE,48.867
+35,35,Filter,LB,TRUE,30.657
+35,36,Filter,IT,TRUE,28.664
+35,37,Filter,CSA,TRUE,18.273
+35,38,Filter,All,TRUE,63.35
+35,39,Filter,None,FALSE,79.688
+35,40,Filter,LB,TRUE,31.091
+35,41,Filter,IT,TRUE,56.937
+35,42,Filter,CSA,TRUE,40.177
+35,43,Filter,All,TRUE,33.318
+35,44,Filter,None,TRUE,61.591
+35,45,Filter,LB,TRUE,88.386
+35,46,Filter,IT,TRUE,70.605
+35,47,Filter,CSA,TRUE,64.814
+35,48,Filter,All,TRUE,48.769
+35,49,Filter,None,TRUE,78.245
+35,50,Filter,LB,FALSE,40.953
+35,51,Filter,IT,TRUE,58.973
+35,52,Filter,CSA,TRUE,59.995
+35,53,Filter,All,TRUE,62.031
+35,54,Filter,None,TRUE,42.697
+35,55,Filter,LB,TRUE,44.989
+36,1,Find Adjacency,IT,TRUE,20.301
+36,2,Find Adjacency,CSA,TRUE,19.097
+36,3,Find Adjacency,All,TRUE,19.026
+36,4,Find Adjacency,None,FALSE,15.149
+36,5,Find Adjacency,LB,TRUE,15.284
+36,6,Find Adjacency,IT,TRUE,25.158
+36,7,Find Adjacency,CSA,TRUE,36.665
+36,8,Find Adjacency,All,TRUE,13.868
+36,9,Find Adjacency,None,TRUE,17.729
+36,10,Find Adjacency,LB,TRUE,12.291
+36,11,Find Adjacency,IT,TRUE,15.635
+36,12,Find Adjacency,CSA,TRUE,39.98
+36,13,Find Adjacency,All,TRUE,16.44
+36,14,Find Adjacency,None,TRUE,24.118
+36,15,Find Adjacency,LB,TRUE,24.912
+36,16,Find Adjacency,IT,TRUE,24.417
+36,17,Find Adjacency,CSA,TRUE,41.095
+36,18,Find Adjacency,All,TRUE,15.149
+36,19,Find Adjacency,None,TRUE,19.175
+36,20,Find Adjacency,LB,TRUE,17.295
+36,21,Find Adjacency,IT,FALSE,8.262
+36,22,Find Adjacency,CSA,TRUE,27.022
+36,23,Find Adjacency,All,TRUE,32.324
+36,24,Find Adjacency,None,TRUE,11.981
+36,25,Find Adjacency,LB,TRUE,51.318
+36,26,Find Adjacency,IT,TRUE,13.381
+36,27,Find Adjacency,CSA,TRUE,17.048
+36,28,Find Adjacency,All,TRUE,18.817
+36,29,Find Adjacency,None,TRUE,10.434
+36,30,Find Adjacency,LB,TRUE,30.941
+36,31,Find Adjacency,IT,TRUE,11.568
+36,32,Find Adjacency,CSA,TRUE,22.201
+36,33,Find Adjacency,All,TRUE,53.759
+36,34,Find Adjacency,None,TRUE,30.038
+36,35,Find Adjacency,LB,TRUE,31.467
+36,36,Find Adjacency,IT,TRUE,16.097
+36,37,Find Adjacency,CSA,TRUE,8.189
+36,38,Find Adjacency,All,TRUE,13.454
+36,39,Find Adjacency,None,TRUE,21.349
+36,40,Find Adjacency,LB,TRUE,22.976
+36,41,Find Adjacency,IT,TRUE,29.437
+36,42,Find Adjacency,CSA,TRUE,17.148
+36,43,Find Adjacency,All,TRUE,7.997
+36,44,Find Adjacency,None,TRUE,19.265
+36,45,Find Adjacency,LB,TRUE,42.169
+36,46,Find Adjacency,IT,TRUE,11.667
+36,47,Find Adjacency,CSA,TRUE,25.452
+36,48,Find Adjacency,All,TRUE,11.14
+36,49,Find Adjacency,None,TRUE,15.31
+36,50,Find Adjacency,LB,TRUE,26.605
+36,51,Find Adjacency,IT,TRUE,27.83
+36,52,Find Adjacency,CSA,TRUE,26.736
+36,53,Find Adjacency,All,TRUE,22.871
+36,54,Find Adjacency,None,TRUE,23.16
+36,55,Find Adjacency,LB,TRUE,27.7
+37,1,Recognize,None,TRUE,8.836
+37,2,Recognize,LB,TRUE,12.505
+37,3,Recognize,IT,TRUE,9.206
+37,4,Recognize,CSA,TRUE,7.237
+37,5,Recognize,All,TRUE,11.133
+37,6,Recognize,None,TRUE,8.593
+37,7,Recognize,LB,TRUE,7.624
+37,8,Recognize,IT,TRUE,4.734
+37,9,Recognize,CSA,TRUE,4.571
+37,10,Recognize,All,TRUE,10.593
+37,11,Recognize,None,TRUE,10.038
+37,12,Recognize,LB,TRUE,12.739
+37,13,Recognize,IT,TRUE,9.499
+37,14,Recognize,CSA,TRUE,7.791
+37,15,Recognize,All,TRUE,9.144
+37,16,Recognize,None,TRUE,12.268
+37,17,Recognize,LB,TRUE,7.78
+37,18,Recognize,IT,TRUE,7.869
+37,19,Recognize,CSA,TRUE,6.733
+37,20,Recognize,All,TRUE,6.104
+37,21,Recognize,None,TRUE,5.316
+37,22,Recognize,LB,TRUE,6.826
+37,23,Recognize,IT,TRUE,8.305
+37,24,Recognize,CSA,TRUE,8.427
+37,25,Recognize,All,TRUE,11.055
+37,26,Recognize,None,TRUE,9.002
+37,27,Recognize,LB,TRUE,6.794
+37,28,Recognize,IT,TRUE,7.828
+37,29,Recognize,CSA,TRUE,28.931
+37,30,Recognize,All,TRUE,11.468
+37,31,Recognize,None,TRUE,9.009
+37,32,Recognize,LB,TRUE,14.737
+37,33,Recognize,IT,TRUE,15.43
+37,34,Recognize,CSA,TRUE,5.667
+37,35,Recognize,All,TRUE,8.034
+37,36,Recognize,None,TRUE,7.445
+37,37,Recognize,LB,TRUE,7.299
+37,38,Recognize,IT,TRUE,9.879
+37,39,Recognize,CSA,TRUE,7.886
+37,40,Recognize,All,TRUE,8.746
+37,41,Recognize,None,TRUE,8.53
+37,42,Recognize,LB,TRUE,5.35
+37,43,Recognize,IT,TRUE,7.582
+37,44,Recognize,CSA,TRUE,13.446
+37,45,Recognize,All,TRUE,16.086
+37,46,Recognize,None,TRUE,12.057
+37,47,Recognize,LB,TRUE,8.212
+37,48,Recognize,IT,TRUE,7.277
+37,49,Recognize,CSA,TRUE,7.486
+37,50,Recognize,All,TRUE,6.812
+37,51,Recognize,None,TRUE,7.057
+37,52,Recognize,LB,TRUE,7.855
+37,53,Recognize,IT,TRUE,6.04
+37,54,Recognize,CSA,TRUE,4.893
+37,55,Recognize,All,TRUE,5.428
+38,1,Find Adjacency,All,TRUE,22.009
+38,2,Find Adjacency,None,TRUE,35.679
+38,3,Find Adjacency,LB,TRUE,16.865
+38,4,Find Adjacency,IT,TRUE,14.423
+38,5,Find Adjacency,CSA,TRUE,21.705
+38,6,Find Adjacency,All,TRUE,27.963
+38,7,Find Adjacency,None,TRUE,21.779
+38,8,Find Adjacency,LB,TRUE,19.167
+38,9,Find Adjacency,IT,TRUE,19.091
+38,10,Find Adjacency,CSA,TRUE,17.276
+38,11,Find Adjacency,All,TRUE,36.607
+38,12,Find Adjacency,None,TRUE,21.196
+38,13,Find Adjacency,LB,TRUE,14
+38,14,Find Adjacency,IT,TRUE,36.07
+38,15,Find Adjacency,CSA,TRUE,16.128
+38,16,Find Adjacency,All,TRUE,24.793
+38,17,Find Adjacency,None,TRUE,21.025
+38,18,Find Adjacency,LB,TRUE,24.972
+38,19,Find Adjacency,IT,TRUE,15.103
+38,20,Find Adjacency,CSA,TRUE,35.211
+38,21,Find Adjacency,All,TRUE,44.728
+38,22,Find Adjacency,None,TRUE,21.362
+38,23,Find Adjacency,LB,TRUE,21.931
+38,24,Find Adjacency,IT,TRUE,13.459
+38,25,Find Adjacency,CSA,TRUE,18.054
+38,26,Find Adjacency,All,TRUE,16.286
+38,27,Find Adjacency,None,TRUE,17.547
+38,28,Find Adjacency,LB,TRUE,21.21
+38,29,Find Adjacency,IT,TRUE,16.398
+38,30,Find Adjacency,CSA,TRUE,20.052
+38,31,Find Adjacency,All,TRUE,17.739
+38,32,Find Adjacency,None,TRUE,45.562
+38,33,Find Adjacency,LB,TRUE,34.68
+38,34,Find Adjacency,IT,TRUE,17.827
+38,35,Find Adjacency,CSA,TRUE,33.309
+38,36,Find Adjacency,All,TRUE,14.56
+38,37,Find Adjacency,None,TRUE,20.548
+38,38,Find Adjacency,LB,TRUE,41.655
+38,39,Find Adjacency,IT,TRUE,12.65
+38,40,Find Adjacency,CSA,TRUE,15.952
+38,41,Find Adjacency,All,TRUE,30.773
+38,42,Find Adjacency,None,TRUE,12.112
+38,43,Find Adjacency,LB,TRUE,14.041
+38,44,Find Adjacency,IT,TRUE,19.395
+38,45,Find Adjacency,CSA,TRUE,22.293
+38,46,Find Adjacency,All,TRUE,14.766
+38,47,Find Adjacency,None,TRUE,14.327
+38,48,Find Adjacency,LB,TRUE,15.303
+38,49,Find Adjacency,IT,TRUE,22.469
+38,50,Find Adjacency,CSA,TRUE,14.285
+38,51,Find Adjacency,All,TRUE,20.238
+38,52,Find Adjacency,None,TRUE,10.272
+38,53,Find Adjacency,LB,TRUE,11.208
+38,54,Find Adjacency,IT,TRUE,14.916
+38,55,Find Adjacency,CSA,TRUE,21.196
+39,1,Detect Change,CSA,TRUE,23.786
+39,2,Detect Change,All,FALSE,37.832
+39,3,Detect Change,None,TRUE,24.685
+39,4,Detect Change,LB,TRUE,20.349
+39,5,Detect Change,IT,TRUE,18.639
+39,6,Detect Change,CSA,TRUE,22.388
+39,7,Detect Change,All,TRUE,21.479
+39,8,Detect Change,None,TRUE,14.614
+39,9,Detect Change,LB,FALSE,14.743
+39,10,Detect Change,IT,FALSE,14.11
+39,11,Detect Change,CSA,FALSE,19.388
+39,12,Detect Change,All,TRUE,34.842
+39,13,Detect Change,None,TRUE,18.342
+39,14,Detect Change,LB,TRUE,18.723
+39,15,Detect Change,IT,TRUE,20.465
+39,16,Detect Change,CSA,TRUE,34.569
+39,17,Detect Change,All,TRUE,43.72
+39,18,Detect Change,None,TRUE,19.42
+39,19,Detect Change,LB,TRUE,16.132
+39,20,Detect Change,IT,TRUE,17.885
+39,21,Detect Change,CSA,TRUE,28.503
+39,22,Detect Change,All,TRUE,21.85
+39,23,Detect Change,None,TRUE,22.571
+39,24,Detect Change,LB,TRUE,10.818
+39,25,Detect Change,IT,TRUE,51.558
+39,26,Detect Change,CSA,TRUE,42.323
+39,27,Detect Change,All,TRUE,30.382
+39,28,Detect Change,None,TRUE,25.449
+39,29,Detect Change,LB,TRUE,14.949
+39,30,Detect Change,IT,TRUE,47.193
+39,31,Detect Change,CSA,TRUE,18.771
+39,32,Detect Change,All,TRUE,37.131
+39,33,Detect Change,None,TRUE,20.243
+39,34,Detect Change,LB,TRUE,23.431
+39,35,Detect Change,IT,TRUE,30.067
+39,36,Detect Change,CSA,TRUE,19.475
+39,37,Detect Change,All,FALSE,31.113
+39,38,Detect Change,None,FALSE,16.963
+39,39,Detect Change,LB,TRUE,17.85
+39,40,Detect Change,IT,TRUE,36.4
+39,41,Detect Change,CSA,FALSE,23.718
+39,42,Detect Change,All,FALSE,30.043
+39,43,Detect Change,None,TRUE,16.003
+39,44,Detect Change,LB,TRUE,27.184
+39,45,Detect Change,IT,TRUE,19.981
+39,46,Detect Change,CSA,TRUE,25.979
+39,47,Detect Change,All,TRUE,19.74
+39,48,Detect Change,None,TRUE,31.469
+39,49,Detect Change,LB,TRUE,14.258
+39,50,Detect Change,IT,TRUE,21.704
+39,51,Detect Change,CSA,TRUE,32.329
+39,52,Detect Change,All,TRUE,36.938
+39,53,Detect Change,None,TRUE,15.663
+39,54,Detect Change,LB,TRUE,15.185
+39,55,Detect Change,IT,FALSE,31.124
+40,1,Filter,CSA,TRUE,36.702
+40,2,Filter,All,TRUE,71.457
+40,3,Filter,None,TRUE,54.384
+40,4,Filter,LB,TRUE,58.431
+40,5,Filter,IT,TRUE,64.279
+40,6,Filter,CSA,TRUE,57.213
+40,7,Filter,All,TRUE,38.405
+40,8,Filter,None,TRUE,46.53
+40,9,Filter,LB,FALSE,56.839
+40,10,Filter,IT,TRUE,63.845
+40,11,Filter,CSA,TRUE,49.891
+40,12,Filter,All,TRUE,79.872
+40,13,Filter,None,TRUE,47.366
+40,14,Filter,LB,TRUE,46.699
+40,15,Filter,IT,TRUE,92.434
+40,16,Filter,CSA,TRUE,68.656
+40,17,Filter,All,TRUE,121.792
+40,18,Filter,None,TRUE,84.383
+40,19,Filter,LB,FALSE,42.136
+40,20,Filter,IT,TRUE,53.383
+40,21,Filter,CSA,FALSE,33.494
+40,22,Filter,All,TRUE,46.47
+40,23,Filter,None,FALSE,58.899
+40,24,Filter,LB,FALSE,17.544
+40,25,Filter,IT,TRUE,87.062
+40,26,Filter,CSA,TRUE,36.094
+40,27,Filter,All,TRUE,62.248
+40,28,Filter,None,FALSE,63.682
+40,29,Filter,LB,TRUE,47.274
+40,30,Filter,IT,TRUE,59.864
+40,31,Filter,CSA,TRUE,61.855
+40,32,Filter,All,TRUE,86.832
+40,33,Filter,None,TRUE,63.413
+40,34,Filter,LB,FALSE,42.054
+40,35,Filter,IT,FALSE,66.301
+40,36,Filter,CSA,FALSE,38.779
+40,37,Filter,All,TRUE,42.772
+40,38,Filter,None,TRUE,47.81
+40,39,Filter,LB,TRUE,55.38
+40,40,Filter,IT,TRUE,64.409
+40,41,Filter,CSA,TRUE,50.875
+40,42,Filter,All,TRUE,38.582
+40,43,Filter,None,TRUE,37.998
+40,44,Filter,LB,FALSE,40.05
+40,45,Filter,IT,TRUE,79.851
+40,46,Filter,CSA,TRUE,52.314
+40,47,Filter,All,TRUE,60.293
+40,48,Filter,None,TRUE,52.6
+40,49,Filter,LB,TRUE,36.766
+40,50,Filter,IT,TRUE,86.196
+40,51,Filter,CSA,TRUE,30.994
+40,52,Filter,All,TRUE,44.968
+40,53,Filter,None,TRUE,31.857
+40,54,Filter,LB,TRUE,53.929
+40,55,Filter,IT,FALSE,56.919
