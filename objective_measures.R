@@ -21,7 +21,7 @@ error_rate <-
   obj_meas %>%
   group_by(task_type, interactive_feature) %>%
   summarise(perc_wrong = 100 * mean(!answer_is_correct))
-cat("Error rates by task type and interactive-feature combination:\n")
+cat("\nError rates by task type and interactive-feature combination:\n")
 error_rate %>%
   pivot_wider(names_from = interactive_feature,
               values_from = perc_wrong) %>%
@@ -76,3 +76,21 @@ cat("\nError rates - significant post-hoc McNemar tests:\n")
 map_dfr(task_types, calc_error_rate_stat_post_hoc) %>%
   print()
 
+# Summarize response times in tabular form.
+correct_response <-
+  obj_meas %>%
+  filter(answer_is_correct)
+cat("\nResponse times by task type and interactive-feature combination ")
+cat("(mean, median):\n")
+correct_response %>%
+  group_by(task_type, interactive_feature) %>%
+  summarize(mean = mean(response_time), median = median(response_time)) %>%
+  mutate(mean_median = str_c("(",
+                             round(mean, 1) %>% format(nsmall = 1),
+                             ", ",
+                             round(median, 1) %>% format(nsmall = 1),
+                             ")")) %>%
+  select(-c(mean, median)) %>%
+  pivot_wider(names_from = interactive_feature,
+              values_from = mean_median) %>%
+  print()
