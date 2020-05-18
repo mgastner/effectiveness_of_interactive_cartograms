@@ -36,6 +36,7 @@ mean_error_rate <- function(task_type_input) {
     summarize(mean = mean(perc_wrong)) %>%
     pluck("mean")
 }
+cat("\nError rates - main effect (Cochran's Q test):\n")
 calc_error_rate_stat_main_effect <- function(task_type_input) {
   if (mean_error_rate(task_type_input) == 0.0) {
     return(NULL)
@@ -47,11 +48,11 @@ calc_error_rate_stat_main_effect <- function(task_type_input) {
     mutate(task_type = task_type_input) %>%
     select(task_type, statistic, df, p)
 }
-cat("\nError rates - main effect (Cochran's Q test):\n")
 map_dfr(task_types, calc_error_rate_stat_main_effect) %>%
   print()
 
 # Statistics of error rates: post-hoc tests.
+cat("\nError rates - significant post-hoc McNemar tests:\n")
 calc_error_rate_stat_post_hoc <- function(task_type_input) {
   if (mean_error_rate(task_type_input) == 0.0) {
     return(NULL)
@@ -62,17 +63,10 @@ calc_error_rate_stat_post_hoc <- function(task_type_input) {
     pairwise_mcnemar_test(formula_for_error_rate_stat,
                           correct = FALSE,
                           p.adjust.method = "holm") %>%
-    filter(p.adj.signif != "ns")
-  if (nrow(pw_mc_nemar) == 0) {
-    return(NULL)
-  } else {
-    pw_mc_nemar %>%
-      mutate(task_type = task_type_input) %>%
-      select(task_type, group1, group2, p, p.adj, p.adj.signif)
-  }
+    filter(p.adj.signif != "ns") %>%
+    mutate(task_type = task_type_input) %>%
+    select(task_type, group1, group2, p, p.adj, p.adj.signif)
 }
-calc_error_rate_stat_post_hoc("Find Top")
-cat("\nError rates - significant post-hoc McNemar tests:\n")
 map_dfr(task_types, calc_error_rate_stat_post_hoc) %>%
   print()
 
@@ -96,6 +90,7 @@ correct_response %>%
   print()
 
 # Statistics of response times: main effect.
+cat("\nResponse times - main effect (Kruskal-Wallis test):\n")
 calc_response_time_stat_main_effect <- function(task_type_input) {
   correct_response %>%
     filter(task_type == task_type_input) %>%
@@ -103,6 +98,18 @@ calc_response_time_stat_main_effect <- function(task_type_input) {
     mutate(task_type = task_type_input) %>%
     select(task_type, statistic, df, p)
 }
-cat("\nResponse times - main effect (Kruskal-Wallis test):\n")
 map_dfr(task_types, calc_response_time_stat_main_effect) %>%
+  print()
+
+# Statistics of error rates: post-hoc tests.
+cat("\nError rates - significant post-hoc Mann-Whitney U tests:\n")
+calc_response_time_stat_post_hoc <- function(task_type_input) {
+  correct_response %>%
+    filter(task_type == task_type_input) %>%
+    pairwise_wilcox_test(response_time ~ interactive_feature) %>%
+    filter(p.adj.signif != "ns") %>%
+    mutate(task_type = task_type_input) %>%
+    select(task_type, group1, group2, p, p.adj, p.adj.signif)
+}
+map_dfr(task_types, calc_response_time_stat_post_hoc) %>%
   print()
