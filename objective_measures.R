@@ -94,3 +94,15 @@ correct_response %>%
   pivot_wider(names_from = interactive_feature,
               values_from = mean_median) %>%
   print()
+
+# Statistics of response times: main effect.
+calc_response_time_stat_main_effect <- function(task_type_input) {
+  correct_response %>%
+    filter(task_type == task_type_input) %>%
+    kruskal_test(response_time ~ interactive_feature) %>%
+    mutate(task_type = task_type_input) %>%
+    select(task_type, statistic, df, p)
+}
+cat("\nResponse times - main effect (Kruskal-Wallis test):\n")
+map_dfr(task_types, calc_response_time_stat_main_effect) %>%
+  print()
