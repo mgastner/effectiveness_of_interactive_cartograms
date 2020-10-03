@@ -122,4 +122,6 @@ loaded via a namespace (and not attached):
 [9] packrat_0.5.0 
 ```
 
-[![DOI](https://zenodo.org/badge/264931474.svg)](https://zenodo.org/badge/latestdoi/264931474)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4064663.svg)](https://doi.org/10.5281/zenodo.4064663)
+
+
