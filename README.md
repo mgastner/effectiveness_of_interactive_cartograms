@@ -92,7 +92,34 @@ Data:
 Required software for computer code: R and RStudio
 
 - Open effectiveness_of_interactive_cartograms.Rproj with RStudio.
+- If necessary, install `tidyverse` and `rstatix` libraries by running the R
+  console commands `install.packages("tidyverse")` and
+  `install.packages("rstatix")`.
 - From the console, run `source("objective_measures.R")` and
   `source("subjective_measures.R")`.
+  
+Code was tested with this software:
+
+```
+> sessionInfo()
+R version 4.0.2 (2020-06-22)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Catalina 10.15.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.0.2   assertthat_0.2.1 cli_2.0.2        tools_4.0.2     
+[5] glue_1.4.1       rstudioapi_0.11  crayon_1.3.4     fansi_0.4.1     
+[9] packrat_0.5.0 
+```
 
 [![DOI](https://zenodo.org/badge/264931474.svg)](https://zenodo.org/badge/latestdoi/264931474)
