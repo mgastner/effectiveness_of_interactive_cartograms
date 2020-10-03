@@ -2,6 +2,7 @@
 
 Data and R scripts used in the article *Task-Based Effectiveness of Interactive Contiguous Area Cartograms* by Ian K. Duncan, Shi Tingsheng, Simon T. Perrault, and Michael T. Gastner (2020, under review).
 
+<<<<<<< HEAD
 Data:
 
 - questionnaire.pdf
@@ -44,3 +45,8 @@ Required software for computer code: R and RStudio
 
 - Open effectiveness_of_interactive_cartograms.Rproj with RStudio.
 - 
+=======
+
+
+[![DOI](https://zenodo.org/badge/264931474.svg)](https://zenodo.org/badge/latestdoi/264931474)
+>>>>>>> 87c3122ed15d1950228283344e747053c7132f2e
