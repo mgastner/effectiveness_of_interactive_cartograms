@@ -5,12 +5,9 @@ library(tidyverse)
 obj_meas <-
   read_csv("interactive_cartogram_objective_measures.csv",
            col_types = cols()) %>%
-  mutate(interactive_feature = factor(interactive_feature,
-                                      levels = c("None",
-                                                 "CSA",
-                                                 "LB",
-                                                 "IT",
-                                                 "All")))
+  mutate(interactive_feature =
+           factor(interactive_feature,
+                  levels = c("None", "CSA", "LB", "IT", "All")))
 
 # For later convenience, store task types in a vector.
 task_types <-
@@ -21,7 +18,8 @@ task_types <-
 error_rate <-
   obj_meas %>%
   group_by(task_type, interactive_feature) %>%
-  summarise(perc_wrong = 100 * mean(!answer_is_correct))
+  summarise(perc_wrong = 100 * mean(!answer_is_correct),
+            .groups = "drop")
 cat("\nError rates by task type and interactive-feature combination:\n")
 error_rate %>%
   pivot_wider(names_from = interactive_feature,
@@ -34,7 +32,7 @@ formula_for_error_rate_stat <-
 mean_error_rate <- function(task_type_input) {
   error_rate %>%
     filter(task_type == task_type_input) %>%
-    summarize(mean = mean(perc_wrong)) %>%
+    summarise(mean = mean(perc_wrong), .groups = "drop") %>%
     pluck("mean")
 }
 cat("\nError rates - main effect (Cochran's Q test):\n")
@@ -71,6 +69,7 @@ calc_error_rate_stat_post_hoc <- function(task_type_input) {
 map_dfr(task_types, calc_error_rate_stat_post_hoc) %>%
   print()
 rm(formula_for_error_rate_stat,
+   error_rate,
    mean_error_rate,
    calc_error_rate_stat_main_effect,
    calc_error_rate_stat_post_hoc)
@@ -79,11 +78,14 @@ rm(formula_for_error_rate_stat,
 correct_response <-
   obj_meas %>%
   filter(answer_is_correct)
+rm(obj_meas)
 cat("\nResponse times by task type and interactive-feature combination ")
 cat("(mean, median):\n")
 correct_response %>%
   group_by(task_type, interactive_feature) %>%
-  summarize(mean = mean(response_time), median = median(response_time)) %>%
+  summarise(mean = mean(response_time),
+            median = median(response_time),
+            .groups = "drop") %>%
   mutate(mean_median = str_c("(",
                              round(mean, 1) %>% format(nsmall = 1),
                              ", ",
@@ -120,4 +122,5 @@ map_dfr(task_types, calc_response_time_stat_post_hoc) %>%
   print()
 rm(task_types,
    calc_response_time_stat_main_effect,
-   calc_response_time_stat_post_hoc)
+   calc_response_time_stat_post_hoc,
+   correct_response)

@@ -388,29 +388,110 @@ summary {
 <ul>
 <li><code>participant_id</code>: integer between 1 and 55</li>
 <li><code>age</code>: in years (integers)</li>
-<li><code>gender</code>: options were “Male”, “Female”, “Other”, “Prefer not to say”.</li>
-<li><code>education</code>: options were “High School graduate”“,”Some college“,”Associate’s and/or Bachelor’s degree“,”Bachelor’s degree“,”Master’s degree“,”Doctorate or Professional degree&quot;</li>
-<li><code>familiar_with_interactive_graphics</code>: options were “Very unfamiliar”, “Unfamiliar”, “Somewhat familiar”, “Familiar”, “Very familiar”</li>
-<li><code>familiar_with_cartogram</code>: options were “Very unfamiliar”, “Unfamiliar”, “Somewhat familiar”, “Familiar”, “Very familiar”</li>
-<li><code>find_birthplace</code>: “Consider the world map above. Would you be able to point at the location where you were born?”. Options were “Yes, with confidence”, “Yes, with a little effort”, “Yes, with much effort”, “Possibly, but I’m uncertain”, “No”.</li>
-<li><code>look_up_on_map</code>: “When you encounter the names of unfamiliar locations (e.g. countries, islands, lakes), how frequently do you immediately look them up on a map to find out where they are?” Options were “Never”, “Rarely”, “Sometimes”, “Generally”, “Always”.</li>
+<li><code>gender</code>:
+<ul>
+<li>“Male”</li>
+<li>“Female”</li>
+<li>“Other”</li>
+<li>“Prefer not to say”.</li>
+</ul></li>
+<li><code>education</code>:
+<ul>
+<li>“High School graduate”</li>
+<li>“Some college”</li>
+<li>“Associate’s and/or Bachelor’s degree”</li>
+<li>“Bachelor’s degree”</li>
+<li>“Master’s degree”</li>
+<li>“Doctorate or Professional degree”</li>
+</ul></li>
+<li><code>familiar_with_interactive_graphics</code>:
+<ul>
+<li>“Very unfamiliar”</li>
+<li>“Unfamiliar”</li>
+<li>“Somewhat familiar”</li>
+<li>“Familiar”</li>
+<li>“Very familiar”</li>
+</ul></li>
+<li><code>familiar_with_cartogram</code>:
+<ul>
+<li>“Very unfamiliar”</li>
+<li>“Unfamiliar”</li>
+<li>“Somewhat familiar”</li>
+<li>“Familiar”</li>
+<li>“Very familiar”</li>
+</ul></li>
+<li><code>find_birthplace</code>: “Consider the world map above. Would you be able to point at the location where you were born?”
+<ul>
+<li>“Yes, with confidence”</li>
+<li>“Yes, with a little effort”</li>
+<li>“Yes, with much effort”</li>
+<li>“Possibly, but I’m uncertain”</li>
+<li>“No”</li>
+</ul></li>
+<li><code>look_up_on_map</code>: “When you encounter the names of unfamiliar locations (e.g. countries, islands, lakes), how frequently do you immediately look them up on a map to find out where they are?”
+<ul>
+<li>“Never”</li>
+<li>“Rarely”</li>
+<li>“Sometimes”</li>
+<li>“Generally”</li>
+<li>“Always”</li>
+</ul></li>
 </ul></li>
 <li>interactive_cartogram_objective_measures.csv
 <ul>
 <li><code>participant_id</code>: matches participant ID in interactive_cartogram_participant_info.csv</li>
 <li><code>question</code>: integer, matches question number in questionnaire.pdf</li>
-<li><code>task_type</code>: “Cluster”, “Compare”, “Detect Change”, “Filter”, “Find Adjacency”, “Find Top”, “Recognize” or “Summarize”</li>
-<li><code>interactive_feature</code>: “None”, “CSA” (cartogram-switching animation), “LB” (linked brushing), “IT” (Infotips) or “All”</li>
+<li><code>task_type</code>:
+<ul>
+<li>“Cluster”</li>
+<li>“Compare”</li>
+<li>“Detect Change”</li>
+<li>“Filter”</li>
+<li>“Find Adjacency”</li>
+<li>“Find Top”</li>
+<li>“Recognize”</li>
+<li>“Summarize”</li>
+</ul></li>
+<li><code>interactive_feature</code>:
+<ul>
+<li>“None”</li>
+<li>“CSA” (cartogram-switching animation)</li>
+<li>“LB” (linked brushing)</li>
+<li>“IT” (infotips)</li>
+<li>“All”</li>
+</ul></li>
 <li><code>answer_is_correct</code>: TRUE or FALSE</li>
 <li><code>response_time</code>: in seconds</li>
 <li><code>participant_uses_animation</code>: TRUE, FALSE or NA. The value is TRUE if and only if animation is available (i.e. if <code>interactive_feature</code> equals “CSA” or “All”) and the participant played the animation.</li>
+</ul></li>
+<li>interactive_cartogram_subjective_measures.csv
+<ul>
+<li><code>participant_id</code>: matches participant ID in interactive_cartogram_participant_info.csv</li>
+<li><code>interactive_feature</code>:
+<ul>
+<li>“CSA” (cartogram-switching animation)</li>
+<li>“LB” (linked brushing)</li>
+<li>“IT” (infotips)</li>
+</ul></li>
+<li><code>phrase_pair</code>:
+<ul>
+<li>“Difficult to use - Easy to use”</li>
+<li>“Does not form immediate impression - Forms immediate impression”</li>
+<li>“Conventional - Innovative”</li>
+<li>“Redundant - Informative”</li>
+<li>“Hindering - Helpful”</li>
+<li>“Boring - Entertaining”</li>
+<li>“Ugly - Elegant”</li>
+</ul></li>
+<li><code>rating</code>: integer between 1 (worst) and 5 (best)</li>
 </ul></li>
 </ul>
 <p>Required software for computer code: R and RStudio</p>
 <ul>
 <li>Open effectiveness_of_interactive_cartograms.Rproj with RStudio.</li>
-<li></li>
+<li>From the console, run <code>source(&quot;objective_measures.R&quot;)</code> and <code>source(&quot;subjective_measures.R&quot;)</code>.</li>
 </ul>
+<p><a href="https://zenodo.org/badge/latestdoi/264931474"><img src="data:image/svg+xml; charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgd2lkdGg9IjE4NiIgaGVpZ2h0PSIyMCI+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IGlkPSJiIiB4Mj0iMCIgeTI9IjEwMCUiPgogICAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNiYmIiIHN0b3Atb3BhY2l0eT0iLjEiLz4KICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLW9wYWNpdHk9Ii4xIi8+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgICAgICA8bWFzayBpZD0iYSIgd2lkdGg9IjE4NiIgaGVpZ2h0PSIyMCI+CiAgICAgICAgICAgIDxyZWN0IHdpZHRoPSIxODYiIGhlaWdodD0iMjAiIHJ4PSIzIgogICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICAgICAgPC9tYXNrPgogICAgICAgIDxnIG1hc2s9InVybCgjYSkiPgogICAgICAgICAgICA8cGF0aCBmaWxsPSIjNTU1IiBkPSJNMCAwaDMxdjIwSDB6IiAvPgogICAgICAgICAgICA8cGF0aCBmaWxsPSIjMDA3ZWM2IgogICAgICAgICAgICBkPSJNMzEgMGgxNTV2MjBIMzF6IgogICAgICAgICAgICAvPgogICAgICAgICAgICA8cGF0aCBmaWxsPSJ1cmwoI2IpIiBkPSJNMCAwaDE4NnYyMEgweiIgLz4KICAgICAgICA8L2c+CiAgICAgICAgPGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkRlamFWdSBTYW5zLAogICAgICAgIFZlcmRhbmEsR2VuZXZhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiPgogICAgICAgICAgICA8dGV4dCB4PSIxNiIgeT0iMTUiIGZpbGw9IiMwMTAxMDEiCiAgICAgICAgICAgIGZpbGwtb3BhY2l0eT0iLjMiPgogICAgICAgICAgICAgICAgRE9JCiAgICAgICAgICAgIDwvdGV4dD4KICAgICAgICAgICAgPHRleHQgeD0iMTYiIHk9IjE0Ij4KICAgICAgICAgICAgICAgIERPSQogICAgICAgICAgICA8L3RleHQ+CiAgICAgICAgICAgIDx0ZXh0IHg9IjEwOCIKICAgICAgICAgICAgeT0iMTUiIGZpbGw9IiMwMTAxMDEiIGZpbGwtb3BhY2l0eT0iLjMiPgogICAgICAgICAgICAgICAgMTAuNTI4MS96ZW5vZG8uMzgzMjE3OQogICAgICAgICAgICA8L3RleHQ+CiAgICAgICAgICAgIDx0ZXh0IHg9IjEwOCIgeT0iMTQiPgogICAgICAgICAgICAgICAgMTAuNTI4MS96ZW5vZG8uMzgzMjE3OQogICAgICAgICAgICA8L3RleHQ+CiAgICAgICAgPC9nPgogICAgPC9zdmc+" alt="DOI" /></a></p>
 </div>
 
 
