@@ -2,9 +2,14 @@ install.packages("install.load", repos = "http://cran.rstudio.com")
 library(install.load)
 install_load("Biobase",  # For openPDF()
              "cowplot",  # For plot_grid()
+             "dplyr",  # For data wrangling
              "ggpubr",  # For stat_pvalue_manual()
+             "ggplot2",  # For plotting
+             "purrr",  # For functional programming
+             "readr",  # For read_csv()
              "rstatix",  # For pipe-friendly versions of hypothesis tests
-             "tidyverse")
+             "stringr",  # For str_c()
+             "tidyr")  # For pivoting
 
 # Import data
 obj_meas <-
