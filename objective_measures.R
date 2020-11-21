@@ -1,8 +1,10 @@
-library(Biobase)  # For openPDF()
-library(cowplot)  # For plot_grid()
-library(ggpubr)  # For stat_pvalue_manual()
-library(rstatix)  # For pipe-friendly versions of hypothesis tests
-library(tidyverse)
+install.packages("install.load", repos = "http://cran.rstudio.com")
+library(install.load)
+install_load("Biobase",  # For openPDF()
+             "cowplot",  # For plot_grid()
+             "ggpubr",  # For stat_pvalue_manual()
+             "rstatix",  # For pipe-friendly versions of hypothesis tests
+             "tidyverse")
 
 # Import data
 obj_meas <-
