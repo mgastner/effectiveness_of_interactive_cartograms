@@ -1,0 +1,8 @@
+Title of submission:
+Task-Based Effectiveness of Interactive Contiguous Area Cartograms
+
+Authors:
+Ian K. Duncan, Shi Tingsheng, Simon T. Perrault, Michael T. Gastner
+
+Operating system:
+Ubuntu 20.04.1 LTS
