@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "welcome"
-ls
-echo "this is the whole list of dir"
+apt-get update
+apt-get install r-base
