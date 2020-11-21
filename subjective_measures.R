@@ -1,7 +1,6 @@
 install.packages("install.load", repos = "http://cran.rstudio.com")
 library(install.load)
-install_load("Biobase",  # For openPDF()
-             "dplyr",  # For data wrangling
+install_load("dplyr",  # For data wrangling
              "ggplot2",  # For plotting
              "ggstance",  # For geom_linerangeh()
              "grid",  # For segmentsGrob()
@@ -9,6 +8,10 @@ install_load("Biobase",  # For openPDF()
              "readr",  # For read_csv()
              "stringr",  # For str_replace()
              "tidyr")  # For pivoting
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+BiocManager::install("Biobase")
+library(Biobase)
 
 interactive_feature_levels <- c("CSA", "LB", "IT")
 subj_meas_long <- read_csv("interactive_cartogram_subjective_measures.csv",
