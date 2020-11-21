@@ -43,6 +43,7 @@ subj_meas_summary <-
   select(-grand_mean, everything()) %>%
   rename(mean = grand_mean) %>%
   print()
+cat("\n")
 
 # Break phrase pair into negative and positive sentiment
 negative <-
