@@ -1,7 +1,6 @@
 install.packages("install.load", repos = "http://cran.rstudio.com")
 library(install.load)
-install_load("Biobase",  # For openPDF()
-             "cowplot",  # For plot_grid()
+install_load("cowplot",  # For plot_grid()
              "dplyr",  # For data wrangling
              "ggpubr",  # For stat_pvalue_manual()
              "ggplot2",  # For plotting
@@ -10,6 +9,13 @@ install_load("Biobase",  # For openPDF()
              "rstatix",  # For pipe-friendly versions of hypothesis tests
              "stringr",  # For str_c()
              "tidyr")  # For pivoting
+
+# Install Biobase to run openPDF()
+if (!requireNamespace("BiocManager", quietly = TRUE)) {
+  install.packages("BiocManager")
+}
+BiocManager::install("Biobase")
+library(Biobase)
 
 # Import data
 obj_meas <-
