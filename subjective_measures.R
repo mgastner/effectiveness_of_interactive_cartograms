@@ -8,8 +8,11 @@ install_load("dplyr",  # For data wrangling
              "readr",  # For read_csv()
              "stringr",  # For str_replace()
              "tidyr")  # For pivoting
-if (!requireNamespace("BiocManager", quietly = TRUE))
+
+# Install Biobase to run openPDF()
+if (!requireNamespace("BiocManager", quietly = TRUE)) {
   install.packages("BiocManager")
+}
 BiocManager::install("Biobase")
 library(Biobase)
 
